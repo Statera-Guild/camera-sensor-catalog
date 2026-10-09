@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0096,CMP-CAM-0096,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0097,CMP-CAM-0097,manufacturer_homepage_reference,https://www.baslerweb.com/,Basler,url_recorded_not_live_verified
+SRC-CAM-0098,CMP-CAM-0098,manufacturer_homepage_reference,https://www.orbbec.com/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0099,CMP-CAM-0099,manufacturer_homepage_reference,https://www.alliedvision.com/,Allied Vision,url_recorded_not_live_verified
+SRC-CAM-0100,CMP-CAM-0100,manufacturer_homepage_reference,https://www.stereolabs.com/,Stereolabs,url_recorded_not_live_verified

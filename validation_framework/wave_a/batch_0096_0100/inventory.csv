@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0096,Teledyne FLIR,Blackfly S BFS-U3-32S4M-C,Blackfly S BFS-U3-32S4M-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_20,industrial_mono_camera
+CMP-CAM-0097,Basler,ace 2 a2A1920-165umBAS,ace 2 a2A1920-165umBAS (orderable SKU not_verified),listed,not_verified,not_tested,wave_20,industrial_mono_camera
+CMP-CAM-0098,Orbbec,Gemini 330L,Gemini 330L (orderable SKU not_verified),listed,not_verified,not_tested,wave_20,rgbd_depth_camera
+CMP-CAM-0099,Allied Vision,Alvium 1800 U-240c,Alvium 1800 U-240c (orderable SKU not_verified),listed,not_verified,not_tested,wave_20,industrial_rgb_camera
+CMP-CAM-0100,Stereolabs,ZED X One 4K Fisheye,ZED X One 4K Fisheye (orderable SKU not_verified),listed,not_verified,not_tested,wave_20,monocular_camera

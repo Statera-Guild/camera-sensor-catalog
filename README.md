@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 95 / 160 (59.375%) — Waves 1–19**
+**Registered: 100 / 160 (62.500%) — Waves 1–20**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -105,4 +105,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0093](component_cards/CMP-CAM-0093.md) | Teledyne FLIR | Boson+ 320 | C06 | listed | not_verified | not_tested |
 | [CMP-CAM-0094](component_cards/CMP-CAM-0094.md) | Zivid | Zivid 2+ M130 | C03 | listed | not_verified | not_tested |
 | [CMP-CAM-0095](component_cards/CMP-CAM-0095.md) | MicaSense | Altum | C07 | listed | not_verified | not_tested |
+| [CMP-CAM-0096](component_cards/CMP-CAM-0096.md) | Teledyne FLIR | Blackfly S BFS-U3-32S4M-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0097](component_cards/CMP-CAM-0097.md) | Basler | ace 2 a2A1920-165umBAS | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0098](component_cards/CMP-CAM-0098.md) | Orbbec | Gemini 330L | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0099](component_cards/CMP-CAM-0099.md) | Allied Vision | Alvium 1800 U-240c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0100](component_cards/CMP-CAM-0100.md) | Stereolabs | ZED X One 4K Fisheye | C03 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

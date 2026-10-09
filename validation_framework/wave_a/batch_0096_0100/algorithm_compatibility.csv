@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0096,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0096,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0096,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0097,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0097,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0097,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0098,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0098,3D mapping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0098,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0099,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0099,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0099,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0100,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0100,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0100,semantic segmentation,candidate_input_only,not_tested,not_verified
