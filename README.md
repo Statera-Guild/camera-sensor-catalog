@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 50 / 160 (31.250%) — Waves 1–10**
+**Registered: 55 / 160 (34.375%) — Waves 1–11**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -60,4 +60,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0048](component_cards/CMP-CAM-0048.md) | IDS Imaging | uEye+ U3-3680XCP | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0049](component_cards/CMP-CAM-0049.md) | Teledyne FLIR | A70 | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0050](component_cards/CMP-CAM-0050.md) | LUCID Vision Labs | Triton TRI050S-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0051](component_cards/CMP-CAM-0051.md) | Basler | ace acA1920-40gm | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0052](component_cards/CMP-CAM-0052.md) | Allied Vision | Alvium 1800 U-120c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0053](component_cards/CMP-CAM-0053.md) | Teledyne FLIR | Blackfly S BFS-U3-51S5C-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0054](component_cards/CMP-CAM-0054.md) | Orbbec | Gemini 330 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0055](component_cards/CMP-CAM-0055.md) | Stereolabs | ZED X Mini | C02 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

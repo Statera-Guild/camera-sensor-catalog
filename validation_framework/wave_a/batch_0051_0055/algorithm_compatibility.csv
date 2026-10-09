@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0051,industrial object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0051,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0051,multi-camera calibration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0052,industrial object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0052,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0052,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0053,industrial object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0053,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0053,multi-camera calibration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0054,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0054,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0054,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0055,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0055,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0055,SLAM,candidate_input_only,not_tested,not_verified

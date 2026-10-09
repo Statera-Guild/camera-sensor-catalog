@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0051,Basler,ace acA1920-40gm,ace acA1920-40gm (orderable SKU not_verified),listed,not_verified,not_tested,wave_11,industrial_camera
+CMP-CAM-0052,Allied Vision,Alvium 1800 U-120c,Alvium 1800 U-120c (orderable SKU not_verified),listed,not_verified,not_tested,wave_11,industrial_camera
+CMP-CAM-0053,Teledyne FLIR,Blackfly S BFS-U3-51S5C-C,Blackfly S BFS-U3-51S5C-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_11,industrial_camera
+CMP-CAM-0054,Orbbec,Gemini 330,Gemini 330 (orderable SKU not_verified),listed,not_verified,not_tested,wave_11,depth_camera
+CMP-CAM-0055,Stereolabs,ZED X Mini,ZED X Mini (orderable SKU not_verified),listed,not_verified,not_tested,wave_11,stereo_camera
