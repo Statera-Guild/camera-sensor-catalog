@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0056,SRC-CAM-0056,output_type,RGB-D depth camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0056,SRC-CAM-0056,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0056,SRC-CAM-0056,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0056,SRC-CAM-0056,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0056,SRC-CAM-0056,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0056,SRC-CAM-0056,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,output_type,RGB-D depth camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0057,SRC-CAM-0057,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,output_type,multispectral and thermal (candidate),unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0058,SRC-CAM-0058,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,output_type,SWIR hyperspectral (candidate),unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0059,SRC-CAM-0059,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,output_type,3D point cloud (candidate),unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0060,SRC-CAM-0060,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified

@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0056,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0056,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0056,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0057,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0057,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0057,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0058,multispectral segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0058,vegetation monitoring,candidate_input_only,not_tested,not_verified
+CMP-CAM-0058,geospatial mapping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0059,hyperspectral classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0059,material identification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0059,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0060,3D point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0060,object pose estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0060,bin picking,candidate_input_only,not_tested,not_verified

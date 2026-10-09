@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 55 / 160 (34.375%) — Waves 1–11**
+**Registered: 60 / 160 (37.500%) — Waves 1–12**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -65,4 +65,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0053](component_cards/CMP-CAM-0053.md) | Teledyne FLIR | Blackfly S BFS-U3-51S5C-C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0054](component_cards/CMP-CAM-0054.md) | Orbbec | Gemini 330 | C03 | listed | not_verified | not_tested |
 | [CMP-CAM-0055](component_cards/CMP-CAM-0055.md) | Stereolabs | ZED X Mini | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0056](component_cards/CMP-CAM-0056.md) | RealSense | D435 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0057](component_cards/CMP-CAM-0057.md) | Orbbec | Gemini 335 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0058](component_cards/CMP-CAM-0058.md) | MicaSense | Altum-PT | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0059](component_cards/CMP-CAM-0059.md) | Specim | FX17 | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0060](component_cards/CMP-CAM-0060.md) | Zivid | Zivid 2+ LR110 | C03 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

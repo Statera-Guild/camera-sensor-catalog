@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0056,CMP-CAM-0056,manufacturer_homepage_reference,https://www.realsenseai.com/,RealSense,url_recorded_not_live_verified
+SRC-CAM-0057,CMP-CAM-0057,manufacturer_homepage_reference,https://www.orbbec.com/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0058,CMP-CAM-0058,manufacturer_homepage_reference,https://www.micasense.com/,MicaSense,url_recorded_not_live_verified
+SRC-CAM-0059,CMP-CAM-0059,manufacturer_homepage_reference,https://www.specim.com/,Specim,url_recorded_not_live_verified
+SRC-CAM-0060,CMP-CAM-0060,manufacturer_homepage_reference,https://www.zivid.com/,Zivid,url_recorded_not_live_verified

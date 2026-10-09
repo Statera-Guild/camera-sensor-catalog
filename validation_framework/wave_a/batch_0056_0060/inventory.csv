@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0056,RealSense,D435,D435 (orderable SKU not_verified),listed,not_verified,not_tested,wave_12,depth_camera
+CMP-CAM-0057,Orbbec,Gemini 335,Gemini 335 (orderable SKU not_verified),listed,not_verified,not_tested,wave_12,depth_camera
+CMP-CAM-0058,MicaSense,Altum-PT,Altum-PT (orderable SKU not_verified),listed,not_verified,not_tested,wave_12,multispectral_camera
+CMP-CAM-0059,Specim,FX17,FX17 (orderable SKU not_verified),listed,not_verified,not_tested,wave_12,hyperspectral_camera
+CMP-CAM-0060,Zivid,Zivid 2+ LR110,Zivid 2+ LR110 (orderable SKU not_verified),listed,not_verified,not_tested,wave_12,3d_camera
