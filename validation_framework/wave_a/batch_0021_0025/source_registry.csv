@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0021,CMP-CAM-0021,manufacturer_product_or_spec,https://www.e-consystems.com/gmsl-Kamera-de.asp,e-con Systems,public_page
+SRC-CAM-0022,CMP-CAM-0022,manufacturer_product_or_spec,https://support.zivid.com/en/2026.07/camera/support/faq.html,Zivid,public_page
+SRC-CAM-0023,CMP-CAM-0023,manufacturer_product_or_spec,https://www.specim.com/wp-content/uploads/2024/06/Specim-FX10-Technical-Datasheet-08.pdf,Specim,public_page
+SRC-CAM-0024,CMP-CAM-0024,manufacturer_product_or_spec,https://docs.luxonis.com/hardware/products/OAK-D%20S2,Luxonis,public_page
+SRC-CAM-0025,CMP-CAM-0025,manufacturer_product_or_spec,https://www.e-consystems.com/blog/camera/products/e-con-systems-launches-gmsl2-cameras-for-x86-based-platforms/,e-con Systems,public_page

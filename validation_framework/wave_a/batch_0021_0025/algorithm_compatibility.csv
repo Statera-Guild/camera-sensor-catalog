@@ -1,0 +1,17 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0021,outdoor perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0021,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0021,surround vision,candidate_input_only,not_tested,not_verified
+CMP-CAM-0022,6D pose,candidate_input_only,not_tested,not_verified
+CMP-CAM-0022,robot manipulation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0022,bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0023,spectral segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0023,material classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0023,quality inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0024,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0024,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0024,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0024,edge AI,candidate_input_only,not_tested,not_verified
+CMP-CAM-0025,outdoor perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0025,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0025,visual odometry,candidate_input_only,not_tested,not_verified

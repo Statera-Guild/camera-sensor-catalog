@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0021,output_type,RGB HDR,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0021,shutter_type,not_verified,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0021,resolution,3 MP,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0021,fps,not_verified,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0021,interface,GMSL2,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0021,image_sensor,Sony ISX031,SRC-CAM-0021,manufacturer_claim,not_verified
+CMP-CAM-0022,output_type,RGB / 3D point cloud,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0022,shutter_type,not_verified,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0022,resolution,2448x2048,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0022,fps,capture time configuration-dependent,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0022,interface,not_verified,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0022,image_sensor,5.1 MP color CMOS,SRC-CAM-0022,manufacturer_claim,not_verified
+CMP-CAM-0023,output_type,VNIR hyperspectral line scan,SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0023,shutter_type,Line scan,SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0023,resolution,1024 spatial pixels; 224 spectral bands,SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0023,fps,327 FPS full spectral range (datasheet nomenclature),SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0023,interface,GigE or CameraLink (variant-dependent),SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0023,image_sensor,VNIR 400-1000 nm,SRC-CAM-0023,manufacturer_claim,not_verified
+CMP-CAM-0024,output_type,RGB / stereo depth / AI metadata,SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0024,shutter_type,Global (mono); Rolling (RGB),SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0024,resolution,not_verified (per-output mode),SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0024,fps,not_verified (per-output mode),SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0024,interface,USB 2/3,SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0024,image_sensor,OV9282 x2 + IMX378 RGB,SRC-CAM-0024,manufacturer_claim,not_verified
+CMP-CAM-0025,output_type,RGB,SRC-CAM-0025,manufacturer_claim,not_verified
+CMP-CAM-0025,shutter_type,Global,SRC-CAM-0025,manufacturer_claim,not_verified
+CMP-CAM-0025,resolution,Full HD,SRC-CAM-0025,manufacturer_claim,not_verified
+CMP-CAM-0025,fps,up to 120 fps (manufacturer statement),SRC-CAM-0025,manufacturer_claim,not_verified
+CMP-CAM-0025,interface,GMSL2,SRC-CAM-0025,manufacturer_claim,not_verified
+CMP-CAM-0025,image_sensor,not_verified,SRC-CAM-0025,manufacturer_claim,not_verified

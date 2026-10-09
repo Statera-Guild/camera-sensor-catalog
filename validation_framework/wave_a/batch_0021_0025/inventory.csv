@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0021,e-con Systems,STURDeCAM31,STURDeCAM31,listed,not_verified,not_tested,wave_05
+CMP-CAM-0022,Zivid,Zivid 2+ MR60,Zivid 2+ MR60 / orderable SKU not_verified,listed,not_verified,not_tested,wave_05
+CMP-CAM-0023,Specim,FX10,FX10 / interface variant not_verified,listed,not_verified,not_tested,wave_05
+CMP-CAM-0024,Luxonis,OAK-D S2,OAK-D S2 / focus variant not_verified,listed,not_verified,not_tested,wave_05
+CMP-CAM-0025,e-con Systems,STURDeCAM25,STURDeCAM25 / variant SKU not_verified,listed,not_verified,not_tested,wave_05
