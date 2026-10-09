@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0031,SRC-CAM-0031,output_type,RGB / Stereo IR / Depth / IMU,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0031,SRC-CAM-0031,shutter_type,IR global; RGB rolling (mode-dependent),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0031,SRC-CAM-0031,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0031,SRC-CAM-0031,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0031,SRC-CAM-0031,interface,USB 3.x (configuration not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0031,SRC-CAM-0031,image_sensor,stereo IR + RGB + IMU,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,output_type,Stereo 3D / Point Cloud,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,interface,GigE (variant not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0032,SRC-CAM-0032,image_sensor,stereo vision sensor not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,output_type,Radiometric LWIR (variant-dependent),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,resolution,160x120 (family claim not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,interface,SPI / VoSPI (integration not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0033,SRC-CAM-0033,image_sensor,uncooled LWIR microbolometer,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,output_type,RGB / Stereo Depth / IR / On-device AI,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,shutter_type,mixed sensors; not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,interface,USB / PoE variant-dependent,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0034,SRC-CAM-0034,image_sensor,RGB + stereo mono + IR projector,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,output_type,3D point cloud / depth,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,shutter_type,N/A (structured light scan),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,interface,Ethernet (variant not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0035,SRC-CAM-0035,image_sensor,structured light 3D sensor,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified

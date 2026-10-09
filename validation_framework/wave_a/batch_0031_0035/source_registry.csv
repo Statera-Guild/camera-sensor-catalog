@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0031,CMP-CAM-0031,manufacturer_product_or_family,https://www.realsenseai.com/depth-camera-d435i/,RealSense,url_recorded_not_live_verified
+SRC-CAM-0032,CMP-CAM-0032,manufacturer_product_or_family,https://en.ids-imaging.com/ensenso-3d-cameras.html,IDS Imaging,url_recorded_not_live_verified
+SRC-CAM-0033,CMP-CAM-0033,manufacturer_product_or_family,https://www.flir.com/products/lepton/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0034,CMP-CAM-0034,manufacturer_product_or_family,https://docs.luxonis.com/hardware/products/OAK-D%20Pro,Luxonis,url_recorded_not_live_verified
+SRC-CAM-0035,CMP-CAM-0035,manufacturer_product_or_family,https://www.photoneo.com/phoxi-3d-scanner/,Photoneo,url_recorded_not_live_verified

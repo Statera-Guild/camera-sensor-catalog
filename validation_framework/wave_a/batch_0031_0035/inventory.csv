@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0031,RealSense,D435i,D435i (orderable SKU not_verified),listed,not_verified,not_tested,wave_07
+CMP-CAM-0032,IDS Imaging,Ensenso N35,Ensenso N35 (variant SKU not_verified),listed,not_verified,not_tested,wave_07
+CMP-CAM-0033,Teledyne FLIR,Lepton 3.5,Lepton 3.5 (module SKU not_verified),listed,not_verified,not_tested,wave_07
+CMP-CAM-0034,Luxonis,OAK-D Pro,OAK-D Pro (interface variant not_verified),listed,not_verified,not_tested,wave_07
+CMP-CAM-0035,Photoneo,PhoXi 3D Scanner M,PhoXi 3D Scanner M (SKU not_verified),listed,not_verified,not_tested,wave_07

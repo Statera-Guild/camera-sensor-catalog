@@ -1,0 +1,17 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0031,RGB-D SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0031,visual inertial odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0031,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0032,stereo reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0032,robot bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0032,3D localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0033,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0033,thermal perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0033,thermal segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0034,on-device detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0034,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0034,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0034,robot perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0035,3D inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0035,robot bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0035,point cloud registration,candidate_input_only,not_tested,not_verified

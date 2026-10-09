@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 30 / 160 (18.750%) — Waves 1–6**
+**Registered: 35 / 160 (21.875%) — Waves 1–7**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -40,4 +40,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0028](component_cards/CMP-CAM-0028.md) | Teledyne FLIR | A50 | C12 | listed | not_verified | not_tested |
 | [CMP-CAM-0029](component_cards/CMP-CAM-0029.md) | Allied Vision | Alvium 1800 U-500c | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0030](component_cards/CMP-CAM-0030.md) | Orbbec | Gemini 336 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0031](component_cards/CMP-CAM-0031.md) | RealSense | D435i | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0032](component_cards/CMP-CAM-0032.md) | IDS Imaging | Ensenso N35 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0033](component_cards/CMP-CAM-0033.md) | Teledyne FLIR | Lepton 3.5 | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0034](component_cards/CMP-CAM-0034.md) | Luxonis | OAK-D Pro | C08 | listed | not_verified | not_tested |
+| [CMP-CAM-0035](component_cards/CMP-CAM-0035.md) | Photoneo | PhoXi 3D Scanner M | C04 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
