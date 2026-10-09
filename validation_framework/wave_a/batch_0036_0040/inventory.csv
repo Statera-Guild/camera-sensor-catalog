@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0036,RealSense,D405,D405 (orderable SKU not_verified),listed,not_verified,not_tested,wave_08
+CMP-CAM-0037,Orbbec,Gemini 2,Gemini 2 (orderable SKU not_verified),listed,not_verified,not_tested,wave_08
+CMP-CAM-0038,Stereolabs,ZED 2,ZED 2 (orderable SKU not_verified),listed,not_verified,not_tested,wave_08
+CMP-CAM-0039,Luxonis,OAK-FFC 4P,OAK-FFC 4P (board revision not_verified),listed,not_verified,not_tested,wave_08
+CMP-CAM-0040,Teledyne FLIR,Boson 320,Boson 320 (optics / module SKU not_verified),listed,not_verified,not_tested,wave_08

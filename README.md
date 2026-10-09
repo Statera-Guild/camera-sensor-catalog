@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 35 / 160 (21.875%) — Waves 1–7**
+**Registered: 40 / 160 (25.000%) — Waves 1–8**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -45,4 +45,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0033](component_cards/CMP-CAM-0033.md) | Teledyne FLIR | Lepton 3.5 | C12 | listed | not_verified | not_tested |
 | [CMP-CAM-0034](component_cards/CMP-CAM-0034.md) | Luxonis | OAK-D Pro | C08 | listed | not_verified | not_tested |
 | [CMP-CAM-0035](component_cards/CMP-CAM-0035.md) | Photoneo | PhoXi 3D Scanner M | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0036](component_cards/CMP-CAM-0036.md) | RealSense | D405 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0037](component_cards/CMP-CAM-0037.md) | Orbbec | Gemini 2 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0038](component_cards/CMP-CAM-0038.md) | Stereolabs | ZED 2 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0039](component_cards/CMP-CAM-0039.md) | Luxonis | OAK-FFC 4P | C08 | listed | not_verified | not_tested |
+| [CMP-CAM-0040](component_cards/CMP-CAM-0040.md) | Teledyne FLIR | Boson 320 | C12 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

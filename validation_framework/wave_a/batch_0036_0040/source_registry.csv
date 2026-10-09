@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0036,CMP-CAM-0036,manufacturer_product_or_family,https://www.realsenseai.com/depth-camera-d405/,RealSense,url_recorded_not_live_verified
+SRC-CAM-0037,CMP-CAM-0037,manufacturer_product_or_family,https://www.orbbec.com/products/stereo-vision-camera/gemini-2/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0038,CMP-CAM-0038,manufacturer_product_or_family,https://www.stereolabs.com/zed-2/,Stereolabs,url_recorded_not_live_verified
+SRC-CAM-0039,CMP-CAM-0039,manufacturer_product_or_family,https://docs.luxonis.com/hardware/products/OAK-FFC%204P,Luxonis,url_recorded_not_live_verified
+SRC-CAM-0040,CMP-CAM-0040,manufacturer_product_or_family,https://www.flir.com/products/boson/,Teledyne FLIR,url_recorded_not_live_verified

@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0036,close-range depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0036,robot grasping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0036,3D inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0037,RGB-D SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0037,3D object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0037,robot manipulation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0038,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0038,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0038,visual inertial odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0039,on-device detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0039,multi-camera fusion,candidate_input_only,not_tested,not_verified
+CMP-CAM-0039,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0040,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0040,thermal object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0040,thermal tracking,candidate_input_only,not_tested,not_verified
