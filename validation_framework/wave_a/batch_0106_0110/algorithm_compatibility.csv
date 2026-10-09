@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0106,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0106,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0106,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0107,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0107,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0107,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0108,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0108,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0108,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0109,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0109,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0109,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0110,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0110,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0110,obstacle detection,candidate_input_only,not_tested,not_verified

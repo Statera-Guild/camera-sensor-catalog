@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 105 / 160 (65.625%) — Waves 1–21**
+**Registered: 110 / 160 (68.750%) — Waves 1–22**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -115,4 +115,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0103](component_cards/CMP-CAM-0103.md) | Orbbec | Astra Embedded S | C03 | listed | not_verified | not_tested |
 | [CMP-CAM-0104](component_cards/CMP-CAM-0104.md) | Allied Vision | Mako G-507C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0105](component_cards/CMP-CAM-0105.md) | Luxonis | OAK-D S2 PoE | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0106](component_cards/CMP-CAM-0106.md) | RealSense | D435if | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0107](component_cards/CMP-CAM-0107.md) | Basler | ace acA2040-55um | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0108](component_cards/CMP-CAM-0108.md) | Teledyne FLIR | Blackfly S BFS-U3-13Y3C-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0109](component_cards/CMP-CAM-0109.md) | Luxonis | OAK-D CM4 | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0110](component_cards/CMP-CAM-0110.md) | Orbbec | Gemini 2 XL | C03 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

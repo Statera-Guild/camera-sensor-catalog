@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0106,SRC-CAM-0106,output_type,RGB-D stereo depth camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0106,SRC-CAM-0106,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0106,SRC-CAM-0106,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0106,SRC-CAM-0106,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0106,SRC-CAM-0106,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0106,SRC-CAM-0106,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,output_type,industrial monochrome camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0107,SRC-CAM-0107,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,output_type,industrial color camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0108,SRC-CAM-0108,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,output_type,embedded AI stereo camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0109,SRC-CAM-0109,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,output_type,RGB-D stereo depth camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0110,SRC-CAM-0110,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
