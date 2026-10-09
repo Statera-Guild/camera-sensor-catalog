@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0066,RealSense,D455f,D455f (orderable SKU not_verified),listed,not_verified,not_tested,wave_14,depth_camera
+CMP-CAM-0067,Orbbec,Astra Mini S,Astra Mini S (orderable SKU not_verified),listed,not_verified,not_tested,wave_14,depth_camera
+CMP-CAM-0068,Stereolabs,ZED X One GS,ZED X One GS (orderable SKU not_verified),listed,not_verified,not_tested,wave_14,industrial_monocular_camera
+CMP-CAM-0069,Teledyne FLIR,Blackfly S BFS-U3-23S3C-C,Blackfly S BFS-U3-23S3C-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_14,industrial_area_scan_camera
+CMP-CAM-0070,Basler,ace 2 a2A3840-45ucBAS,ace 2 a2A3840-45ucBAS (orderable SKU not_verified),listed,not_verified,not_tested,wave_14,industrial_area_scan_camera
