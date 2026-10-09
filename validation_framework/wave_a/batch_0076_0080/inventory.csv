@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0076,Orbbec,Astra Pro,Astra Pro (orderable SKU not_verified),listed,not_verified,not_tested,wave_16,rgbd_depth_camera
+CMP-CAM-0077,Basler,ace acA1920-155um,ace acA1920-155um (orderable SKU not_verified),listed,not_verified,not_tested,wave_16,industrial_area_scan_camera
+CMP-CAM-0078,Teledyne FLIR,Blackfly S BFS-U3-50S5M-C,Blackfly S BFS-U3-50S5M-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_16,industrial_area_scan_camera
+CMP-CAM-0079,Allied Vision,Alvium 1800 U-2050c,Alvium 1800 U-2050c (orderable SKU not_verified),listed,not_verified,not_tested,wave_16,industrial_area_scan_camera
+CMP-CAM-0080,Luxonis,OAK-D Pro PoE,OAK-D Pro PoE (orderable SKU not_verified),listed,not_verified,not_tested,wave_16,embedded_stereo_camera

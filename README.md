@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 75 / 160 (46.875%) — Waves 1–15**
+**Registered: 80 / 160 (50.000%) — Waves 1–16**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -85,4 +85,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0073](component_cards/CMP-CAM-0073.md) | Allied Vision | Mako G-319C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0074](component_cards/CMP-CAM-0074.md) | Teledyne FLIR | Blackfly S BFS-U3-31S4C-C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0075](component_cards/CMP-CAM-0075.md) | LUCID Vision Labs | Triton TRI032S-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0076](component_cards/CMP-CAM-0076.md) | Orbbec | Astra Pro | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0077](component_cards/CMP-CAM-0077.md) | Basler | ace acA1920-155um | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0078](component_cards/CMP-CAM-0078.md) | Teledyne FLIR | Blackfly S BFS-U3-50S5M-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0079](component_cards/CMP-CAM-0079.md) | Allied Vision | Alvium 1800 U-2050c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0080](component_cards/CMP-CAM-0080.md) | Luxonis | OAK-D Pro PoE | C04 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

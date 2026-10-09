@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0076,CMP-CAM-0076,manufacturer_homepage_reference,https://www.orbbec.com/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0077,CMP-CAM-0077,manufacturer_homepage_reference,https://www.baslerweb.com/,Basler,url_recorded_not_live_verified
+SRC-CAM-0078,CMP-CAM-0078,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0079,CMP-CAM-0079,manufacturer_homepage_reference,https://www.alliedvision.com/,Allied Vision,url_recorded_not_live_verified
+SRC-CAM-0080,CMP-CAM-0080,manufacturer_homepage_reference,https://luxonis.com/,Luxonis,url_recorded_not_live_verified

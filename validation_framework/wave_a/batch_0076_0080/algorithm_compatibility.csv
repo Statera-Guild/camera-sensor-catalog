@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_status,evidence_type,test_status
+CMP-CAM-0076,depth estimation,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0076,3D obstacle perception,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0076,point cloud registration,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0077,object detection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0077,visual inspection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0077,feature tracking,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0078,object detection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0078,visual inspection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0078,feature tracking,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0079,object detection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0079,segmentation,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0079,visual inspection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0080,stereo depth,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0080,object detection,candidate_not_tested,editorial_mapping_only,not_tested
+CMP-CAM-0080,visual SLAM,candidate_not_tested,editorial_mapping_only,not_tested

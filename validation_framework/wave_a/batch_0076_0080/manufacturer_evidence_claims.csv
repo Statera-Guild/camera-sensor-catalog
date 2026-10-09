@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0076,SRC-CAM-0076,output_type,RGB-D depth camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0076,SRC-CAM-0076,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0076,SRC-CAM-0076,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0076,SRC-CAM-0076,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0076,SRC-CAM-0076,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0076,SRC-CAM-0076,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,output_type,industrial monochrome camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0077,SRC-CAM-0077,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,output_type,industrial monochrome camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0078,SRC-CAM-0078,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,output_type,industrial color camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0079,SRC-CAM-0079,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,output_type,stereo vision camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0080,SRC-CAM-0080,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
