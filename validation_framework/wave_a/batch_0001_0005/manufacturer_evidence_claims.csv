@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_url,evidence_type,verification_status
+CMP-CAM-0001,output_type,Mono,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0001,shutter_type,Global,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0001,resolution,1920x1200,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0001,fps,51,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0001,interface,GigE,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0001,image_sensor,Sony IMX392,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,output_type,RGB,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,shutter_type,Global,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,resolution,1440x1080,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,fps,226,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,interface,USB3,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0002,image_sensor,Sony IMX273,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,output_type,Stereo RGB / SDK Depth,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,shutter_type,Global,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,resolution,2x1920x1200,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,fps,60,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,interface,GMSL2,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0003,image_sensor,Dual 2.3MP RGB,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,output_type,RGB / Depth / IR,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,shutter_type,Global,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,resolution,1280x720 depth,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,fps,30 at 1280x720 depth,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,interface,USB 3.1 Gen 1,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0004,image_sensor,Stereo IR + RGB,https://www.realsenseai.com/product-family/450-series/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,output_type,Depth / Point Cloud / Intensity,https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,shutter_type,N/A (ToF modulation),https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,resolution,640x480,https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,fps,30,https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,interface,M12 GigE Vision,https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified
+CMP-CAM-0005,image_sensor,Sony IMX556PLR,https://thinklucid.com/helios-time-of-flight-tof-camera/,manufacturer_public_document,not_independently_verified

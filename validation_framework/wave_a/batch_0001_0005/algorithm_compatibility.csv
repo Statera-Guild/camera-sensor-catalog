@@ -1,0 +1,21 @@
+component_id,algorithm,compatibility_assessment,test_status,notes
+CMP-CAM-0001,2D detection,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0001,segmentation,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0001,MOT,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0001,visual SLAM,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0002,2D detection,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0002,segmentation,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0002,MOT,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0002,visual odometry,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0003,stereo depth,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0003,visual SLAM,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0003,visual odometry,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0003,3D detection,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0004,RGB-D,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0004,depth estimation,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0004,3D detection,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0004,SLAM,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0005,depth estimation,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0005,3D perception,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0005,3D measurement,candidate_input_compatible,not_tested,No benchmark or driver integration performed
+CMP-CAM-0005,robot manipulation,candidate_input_compatible,not_tested,No benchmark or driver integration performed

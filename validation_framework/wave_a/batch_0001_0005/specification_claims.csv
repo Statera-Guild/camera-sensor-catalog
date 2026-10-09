@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0001,output_type,Mono,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0001,shutter_type,Global,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0001,resolution,1920x1200,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0001,fps,51,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0001,interface,GigE,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0001,image_sensor,Sony IMX392,SRC-CAM-0001,manufacturer_claim,not_verified
+CMP-CAM-0002,output_type,RGB,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0002,shutter_type,Global,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0002,resolution,1440x1080,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0002,fps,226,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0002,interface,USB3,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0002,image_sensor,Sony IMX273,SRC-CAM-0002,manufacturer_claim,not_verified
+CMP-CAM-0003,output_type,Stereo RGB / SDK Depth,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0003,shutter_type,Global,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0003,resolution,2x1920x1200,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0003,fps,60,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0003,interface,GMSL2,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0003,image_sensor,Dual 2.3MP RGB,SRC-CAM-0003,manufacturer_claim,not_verified
+CMP-CAM-0004,output_type,RGB / Depth / IR,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0004,shutter_type,Global,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0004,resolution,1280x720 depth,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0004,fps,30 at 1280x720 depth,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0004,interface,USB 3.1 Gen 1,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0004,image_sensor,Stereo IR + RGB,SRC-CAM-0004,manufacturer_claim,not_verified
+CMP-CAM-0005,output_type,Depth / Point Cloud / Intensity,SRC-CAM-0005,manufacturer_claim,not_verified
+CMP-CAM-0005,shutter_type,N/A (ToF modulation),SRC-CAM-0005,manufacturer_claim,not_verified
+CMP-CAM-0005,resolution,640x480,SRC-CAM-0005,manufacturer_claim,not_verified
+CMP-CAM-0005,fps,30,SRC-CAM-0005,manufacturer_claim,not_verified
+CMP-CAM-0005,interface,M12 GigE Vision,SRC-CAM-0005,manufacturer_claim,not_verified
+CMP-CAM-0005,image_sensor,Sony IMX556PLR,SRC-CAM-0005,manufacturer_claim,not_verified

@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0001,CMP-CAM-0001,manufacturer_product_or_spec,https://www.baslerweb.com/en/shop/a2a1920-51gmbas/,Basler,public_page
+SRC-CAM-0002,CMP-CAM-0002,manufacturer_product_or_spec,https://softwareservices.flir.com/BFS-U3-16S2/latest/Model/spec.html,Teledyne FLIR,public_page
+SRC-CAM-0003,CMP-CAM-0003,manufacturer_product_or_spec,https://stereolabs.static.ferndocs.com/docs/products/cameras/zedx/specifications,Stereolabs,public_page
+SRC-CAM-0004,CMP-CAM-0004,manufacturer_product_or_spec,https://www.realsenseai.com/product-family/450-series/,RealSense,public_page
+SRC-CAM-0005,CMP-CAM-0005,manufacturer_product_or_spec,https://thinklucid.com/helios-time-of-flight-tof-camera/,LUCID Vision Labs,public_page

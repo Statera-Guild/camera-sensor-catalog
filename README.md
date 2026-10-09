@@ -1,0 +1,19 @@
+# PAI-SG Camera Sensor Catalog
+
+Public manufacturer-evidence component registry derived from a separate private/Core SSOT. Planned 160 components (32 waves × 5).
+
+**Registered: 5 / 160 (3.125%) — Wave 01**
+
+`listed` means manufacturer-source listing only, not qualified, tested, purchased or endorsed. Default verification is `not_verified` and algorithm testing is `not_tested`. Do not publish private BOM, prices, contracts or internal designs.
+
+<!-- PAI-SG-CAMERA-CATALOG:START -->
+## Component Index
+
+| Component ID | Manufacturer | Model | Status | Verification | Algorithm Test |
+|---|---|---|---|---|---|
+| [CMP-CAM-0001](component_cards/CMP-CAM-0001.md) | Basler | a2A1920-51gmBAS | listed | not_verified | not_tested |
+| [CMP-CAM-0002](component_cards/CMP-CAM-0002.md) | Teledyne FLIR | Blackfly S BFS-U3-16S2C-CS | listed | not_verified | not_tested |
+| [CMP-CAM-0003](component_cards/CMP-CAM-0003.md) | Stereolabs | ZED X | listed | not_verified | not_tested |
+| [CMP-CAM-0004](component_cards/CMP-CAM-0004.md) | RealSense | D455 | listed | not_verified | not_tested |
+| [CMP-CAM-0005](component_cards/CMP-CAM-0005.md) | LUCID Vision Labs | Helios2 HLT003S-001 | listed | not_verified | not_tested |
+<!-- PAI-SG-CAMERA-CATALOG:END -->
