@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0081,Orbbec,Gemini 336L,Gemini 336L (orderable SKU not_verified),listed,not_verified,not_tested,wave_17,rgbd_depth_camera
+CMP-CAM-0082,Luxonis,OAK-D SR PoE,OAK-D SR PoE (orderable SKU not_verified),listed,not_verified,not_tested,wave_17,embedded_stereo_camera
+CMP-CAM-0083,Teledyne FLIR,Lepton 2.5,Lepton 2.5 (orderable SKU not_verified),listed,not_verified,not_tested,wave_17,thermal_camera_module
+CMP-CAM-0084,Allied Vision,Alvium 1800 C-040c,Alvium 1800 C-040c (orderable SKU not_verified),listed,not_verified,not_tested,wave_17,industrial_area_scan_camera
+CMP-CAM-0085,Basler,dart daA4200-30mci,dart daA4200-30mci (orderable SKU not_verified),listed,not_verified,not_tested,wave_17,industrial_camera_module

@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 80 / 160 (50.000%) — Waves 1–16**
+**Registered: 85 / 160 (53.125%) — Waves 1–17**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -90,4 +90,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0078](component_cards/CMP-CAM-0078.md) | Teledyne FLIR | Blackfly S BFS-U3-50S5M-C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0079](component_cards/CMP-CAM-0079.md) | Allied Vision | Alvium 1800 U-2050c | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0080](component_cards/CMP-CAM-0080.md) | Luxonis | OAK-D Pro PoE | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0081](component_cards/CMP-CAM-0081.md) | Orbbec | Gemini 336L | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0082](component_cards/CMP-CAM-0082.md) | Luxonis | OAK-D SR PoE | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0083](component_cards/CMP-CAM-0083.md) | Teledyne FLIR | Lepton 2.5 | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0084](component_cards/CMP-CAM-0084.md) | Allied Vision | Alvium 1800 C-040c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0085](component_cards/CMP-CAM-0085.md) | Basler | dart daA4200-30mci | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
