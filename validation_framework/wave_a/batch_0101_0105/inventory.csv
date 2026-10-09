@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0101,Teledyne FLIR,Blackfly S BFS-U3-20S4C-C,Blackfly S BFS-U3-20S4C-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_21,industrial_rgb_camera
+CMP-CAM-0102,Basler,ace 2 a2A2590-22gmBAS,ace 2 a2A2590-22gmBAS (orderable SKU not_verified),listed,not_verified,not_tested,wave_21,industrial_mono_camera
+CMP-CAM-0103,Orbbec,Astra Embedded S,Astra Embedded S (orderable SKU not_verified),listed,not_verified,not_tested,wave_21,rgbd_depth_camera
+CMP-CAM-0104,Allied Vision,Mako G-507C,Mako G-507C (orderable SKU not_verified),listed,not_verified,not_tested,wave_21,industrial_rgb_camera
+CMP-CAM-0105,Luxonis,OAK-D S2 PoE,OAK-D S2 PoE (orderable SKU not_verified),listed,not_verified,not_tested,wave_21,embedded_ai_stereo_camera

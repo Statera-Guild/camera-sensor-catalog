@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 100 / 160 (62.500%) — Waves 1–20**
+**Registered: 105 / 160 (65.625%) — Waves 1–21**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -110,4 +110,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0098](component_cards/CMP-CAM-0098.md) | Orbbec | Gemini 330L | C02 | listed | not_verified | not_tested |
 | [CMP-CAM-0099](component_cards/CMP-CAM-0099.md) | Allied Vision | Alvium 1800 U-240c | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0100](component_cards/CMP-CAM-0100.md) | Stereolabs | ZED X One 4K Fisheye | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0101](component_cards/CMP-CAM-0101.md) | Teledyne FLIR | Blackfly S BFS-U3-20S4C-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0102](component_cards/CMP-CAM-0102.md) | Basler | ace 2 a2A2590-22gmBAS | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0103](component_cards/CMP-CAM-0103.md) | Orbbec | Astra Embedded S | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0104](component_cards/CMP-CAM-0104.md) | Allied Vision | Mako G-507C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0105](component_cards/CMP-CAM-0105.md) | Luxonis | OAK-D S2 PoE | C06 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

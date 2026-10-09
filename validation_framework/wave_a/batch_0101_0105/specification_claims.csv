@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0101,output_type,industrial color camera,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0101,shutter_type,not_verified,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0101,resolution,not_verified,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0101,fps,not_verified,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0101,interface,not_verified,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0101,image_sensor,not_verified,SRC-CAM-0101,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,output_type,industrial monochrome camera,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,shutter_type,not_verified,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,resolution,not_verified,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,fps,not_verified,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,interface,not_verified,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0102,image_sensor,not_verified,SRC-CAM-0102,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,output_type,RGB-D depth camera,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,shutter_type,not_verified,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,resolution,not_verified,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,fps,not_verified,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,interface,not_verified,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0103,image_sensor,not_verified,SRC-CAM-0103,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,output_type,industrial color camera,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,shutter_type,not_verified,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,resolution,not_verified,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,fps,not_verified,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,interface,not_verified,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0104,image_sensor,not_verified,SRC-CAM-0104,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,output_type,embedded stereo AI camera,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,shutter_type,not_verified,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,resolution,not_verified,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,fps,not_verified,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,interface,not_verified,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0105,image_sensor,not_verified,SRC-CAM-0105,editorial_candidate_not_manufacturer_verified,not_verified

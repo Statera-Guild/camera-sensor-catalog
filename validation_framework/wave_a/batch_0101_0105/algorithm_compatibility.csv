@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0101,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0101,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0101,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0102,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0102,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0102,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0103,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0103,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0103,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0104,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0104,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0104,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0105,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0105,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0105,edge AI,candidate_input_only,not_tested,not_verified

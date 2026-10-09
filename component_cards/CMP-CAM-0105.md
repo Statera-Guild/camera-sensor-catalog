@@ -1,0 +1,36 @@
+# CMP-CAM-0105 — Luxonis OAK-D S2 PoE
+
+- Manufacturer: Luxonis
+- Model: OAK-D S2 PoE
+- Orderable SKU: OAK-D S2 PoE (orderable SKU not_verified)
+- Primary category: C06 — Embedded AI Stereo
+- Product form factor: **embedded_ai_stereo_camera**
+- Catalog status: **listed**
+- Verification status: **not_verified**
+- Algorithm test status: **not_tested**
+
+## Sensor / Interface Candidate
+
+- Output type: embedded stereo AI camera (editorial candidate; not manufacturer-verified)
+- Shutter type: not_verified
+- Resolution: not_verified
+- Frame rate: not_verified
+- Interface: not_verified
+- Image sensor: not_verified
+
+## PAI-SG Algorithm Candidates
+
+- stereo depth (not_tested)
+- object detection (not_tested)
+- edge AI (not_tested)
+
+## Evidence and Qualification
+
+- Manufacturer homepage reference: https://www.luxonis.com/
+- Evidence scope: manufacturer homepage only; exact model / orderable SKU documentation not verified.
+- Do not infer product availability or hardware capability from this card.
+- See `validation_framework/wave_a/batch_0101_0105/` for claim-level records.
+
+## Public / Private Boundary
+
+This public catalog candidate does not include private BOM pricing, proprietary reference-stack choices, supplier quotations, or internal architecture.
