@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0006,Orbbec,Gemini 335L,G40155-170,listed,not_verified,not_tested,wave_02
+CMP-CAM-0007,Orbbec,Femto Bolt,Femto Bolt / orderable SKU not_verified,listed,not_verified,not_tested,wave_02
+CMP-CAM-0008,Luxonis,OAK 4 D Pro,OAK 4 D Pro / variant SKU not_verified,listed,not_verified,not_tested,wave_02
+CMP-CAM-0009,Stereolabs,ZED X One S Fisheye,ZED-414012,listed,not_verified,not_tested,wave_02
+CMP-CAM-0010,Stereolabs,ZED X One 4K Wide,ZED-422010,listed,not_verified,not_tested,wave_02

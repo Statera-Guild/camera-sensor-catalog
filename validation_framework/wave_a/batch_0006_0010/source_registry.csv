@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0006,CMP-CAM-0006,manufacturer_product_or_spec,https://store.orbbec.com/products/gemini-335l,Orbbec,public_page
+SRC-CAM-0007,CMP-CAM-0007,manufacturer_product_or_spec,https://www.orbbec.com/products/tof-camera/femto-bolt/,Orbbec,public_page
+SRC-CAM-0008,CMP-CAM-0008,manufacturer_product_or_spec,https://docs.luxonis.com/hardware/products/OAK%204%20D%20Pro,Luxonis,public_page
+SRC-CAM-0009,CMP-CAM-0009,manufacturer_product_or_spec,https://docs.stereolabs.com/docs/products/cameras/zedxone/specifications,Stereolabs,public_page
+SRC-CAM-0010,CMP-CAM-0010,manufacturer_product_or_spec,https://docs.stereolabs.com/docs/products/cameras/zedxone/specifications,Stereolabs,public_page

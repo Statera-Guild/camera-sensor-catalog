@@ -9,6 +9,8 @@ Public manufacturer-evidence component registry derived from a separate private/
 <!-- PAI-SG-CAMERA-CATALOG:START -->
 ## Component Index
 
+**Registered: 10 / 160 (6.25%) · Waves 1–2**
+
 | Component ID | Manufacturer | Model | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|
 | [CMP-CAM-0001](component_cards/CMP-CAM-0001.md) | Basler | a2A1920-51gmBAS | listed | not_verified | not_tested |
@@ -16,4 +18,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0003](component_cards/CMP-CAM-0003.md) | Stereolabs | ZED X | listed | not_verified | not_tested |
 | [CMP-CAM-0004](component_cards/CMP-CAM-0004.md) | RealSense | D455 | listed | not_verified | not_tested |
 | [CMP-CAM-0005](component_cards/CMP-CAM-0005.md) | LUCID Vision Labs | Helios2 HLT003S-001 | listed | not_verified | not_tested |
+| [CMP-CAM-0006](component_cards/CMP-CAM-0006.md) | Orbbec | Gemini 335L | listed | not_verified | not_tested |
+| [CMP-CAM-0007](component_cards/CMP-CAM-0007.md) | Orbbec | Femto Bolt | listed | not_verified | not_tested |
+| [CMP-CAM-0008](component_cards/CMP-CAM-0008.md) | Luxonis | OAK 4 D Pro | listed | not_verified | not_tested |
+| [CMP-CAM-0009](component_cards/CMP-CAM-0009.md) | Stereolabs | ZED X One S Fisheye | listed | not_verified | not_tested |
+| [CMP-CAM-0010](component_cards/CMP-CAM-0010.md) | Stereolabs | ZED X One 4K Wide | listed | not_verified | not_tested |
 <!-- PAI-SG-CAMERA-CATALOG:END -->

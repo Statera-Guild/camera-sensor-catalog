@@ -1,0 +1,28 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0006,SRC-CAM-0006,output_type,RGB / IR / Depth / Point Cloud,manufacturer_documented,not_verified
+CMP-CAM-0006,SRC-CAM-0006,shutter_type,Global (IR and RGB),manufacturer_documented,not_verified
+CMP-CAM-0006,SRC-CAM-0006,resolution,1280x800 depth,manufacturer_documented,not_verified
+CMP-CAM-0006,SRC-CAM-0006,fps,30 at 1280x800 depth,manufacturer_documented,not_verified
+CMP-CAM-0006,SRC-CAM-0006,interface,USB 3.0 Type-C,manufacturer_documented,not_verified
+CMP-CAM-0006,SRC-CAM-0006,image_sensor,Stereo IR + RGB,manufacturer_documented,not_verified
+CMP-CAM-0007,SRC-CAM-0007,output_type,RGB / IR / Depth / Point Cloud,manufacturer_documented,not_verified
+CMP-CAM-0007,SRC-CAM-0007,resolution,640x576 NFOV depth,manufacturer_documented,not_verified
+CMP-CAM-0007,SRC-CAM-0007,fps,30 at 640x576 NFOV,manufacturer_documented,not_verified
+CMP-CAM-0007,SRC-CAM-0007,interface,USB 3.2 Gen 1 Type-C,manufacturer_documented,not_verified
+CMP-CAM-0007,SRC-CAM-0007,image_sensor,850 nm ToF + RGB,manufacturer_documented,not_verified
+CMP-CAM-0008,SRC-CAM-0008,output_type,RGB / Stereo IR / Depth / AI Metadata,manufacturer_documented,not_verified
+CMP-CAM-0008,SRC-CAM-0008,shutter_type,Global (stereo IR); Rolling (RGB),manufacturer_documented,not_verified
+CMP-CAM-0008,SRC-CAM-0008,interface,USB 2/3 or 2.5GbE (variant-dependent),manufacturer_documented,not_verified
+CMP-CAM-0008,SRC-CAM-0008,image_sensor,OV9282 x2 + Sony IMX586 RGB,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,output_type,RGB Frame / IMU,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,shutter_type,Global,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,resolution,1920x1200,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,fps,60 at 1920x1200,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,interface,GMSL2,manufacturer_documented,not_verified
+CMP-CAM-0009,SRC-CAM-0009,image_sensor,onsemi AR0234 RGB,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,output_type,RGB Frame / IMU,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,shutter_type,Rolling,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,resolution,3840x2160,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,fps,15 at 3840x2160,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,interface,GMSL2,manufacturer_documented,not_verified
+CMP-CAM-0010,SRC-CAM-0010,image_sensor,8.4MP CMOS RGB,manufacturer_documented,not_verified

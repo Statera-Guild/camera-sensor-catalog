@@ -1,0 +1,22 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0006,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0006,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0006,SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0006,robot manipulation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0007,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0007,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0007,body tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0007,robot manipulation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0008,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0008,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0008,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0008,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0008,edge AI,candidate_input_only,not_tested,not_verified
+CMP-CAM-0009,fisheye SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0009,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0009,surround perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0009,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0010,2D detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0010,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0010,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0010,outdoor perception,candidate_input_only,not_tested,not_verified
