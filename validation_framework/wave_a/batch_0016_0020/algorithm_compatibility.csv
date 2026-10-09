@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0016,SWIR inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0016,material discrimination,candidate_input_only,not_tested,not_verified
+CMP-CAM-0016,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0017,event-based tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0017,high-speed motion,candidate_input_only,not_tested,not_verified
+CMP-CAM-0017,event optical flow,candidate_input_only,not_tested,not_verified
+CMP-CAM-0018,3D surface inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0018,profile defect detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0018,dimensional metrology,candidate_input_only,not_tested,not_verified
+CMP-CAM-0019,multispectral segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0019,vegetation indices,candidate_input_only,not_tested,not_verified
+CMP-CAM-0019,spectral anomaly,candidate_input_only,not_tested,not_verified
+CMP-CAM-0020,polarization inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0020,surface defect detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0020,reflection analysis,candidate_input_only,not_tested,not_verified

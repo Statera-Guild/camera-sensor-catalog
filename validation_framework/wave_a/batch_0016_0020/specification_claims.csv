@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0016,output_type,Mono SWIR,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0016,shutter_type,Global,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0016,resolution,640x512,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0016,fps,301 fps maximum,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0016,interface,GigE Vision / PoE,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0016,image_sensor,InGaAs SWIR 900-1700 nm,SRC-CAM-0016,manufacturer_claim,not_verified
+CMP-CAM-0017,output_type,Asynchronous polarity events,SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0017,shutter_type,N/A (event-based),SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0017,resolution,1280x720 event pixels,SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0017,fps,N/A (event-based; not frame FPS),SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0017,interface,USB 3.0 Type-C,SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0017,image_sensor,Sony IMX636 event sensor,SRC-CAM-0017,manufacturer_claim,not_verified
+CMP-CAM-0018,output_type,3D laser line profile,SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0018,shutter_type,N/A (laser profile),SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0018,resolution,1920 points/profile,SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0018,fps,up to 10 kHz profiles (published model-specific material),SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0018,interface,Ethernet (protocol variant not_verified),SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0018,image_sensor,Blue laser triangulation profiler,SRC-CAM-0018,manufacturer_claim,not_verified
+CMP-CAM-0019,output_type,5 multispectral bands + panchromatic,SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0019,shutter_type,Global,SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0019,resolution,1456x1088 per spectral band; 2464x2056 pan,SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0019,fps,up to 3 captures/s (not video FPS),SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0019,interface,Ethernet / serial / GPIO,SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0019,image_sensor,5-band multispectral + panchromatic imagers,SRC-CAM-0019,manufacturer_claim,not_verified
+CMP-CAM-0020,output_type,Mono polarization (0/45/90/135 deg),SRC-CAM-0020,manufacturer_claim,not_verified
+CMP-CAM-0020,shutter_type,not_verified,SRC-CAM-0020,manufacturer_claim,not_verified
+CMP-CAM-0020,resolution,2448x2048,SRC-CAM-0020,manufacturer_claim,not_verified
+CMP-CAM-0020,fps,22 fps,SRC-CAM-0020,manufacturer_claim,not_verified
+CMP-CAM-0020,interface,GigE Vision RJ45,SRC-CAM-0020,manufacturer_claim,not_verified
+CMP-CAM-0020,image_sensor,Sony IMX250MZR Polarsens,SRC-CAM-0020,manufacturer_claim,not_verified

@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0016,CMP-CAM-0016,manufacturer_product_or_spec,https://www.alliedvision.com/en/products/area-scan-cameras/goldeye-swir/goldeye-g/view/1104,Allied Vision,public_page
+SRC-CAM-0017,CMP-CAM-0017,manufacturer_product_or_spec,https://www.prophesee.ai/event-camera-evk4/,Prophesee,public_page
+SRC-CAM-0018,CMP-CAM-0018,manufacturer_product_or_spec,https://lmi3d.com/2500-high-speed-3d-laser-profile-sensors/,LMI Technologies,public_page
+SRC-CAM-0019,CMP-CAM-0019,manufacturer_product_or_spec,https://support.micasense.com/hc/en-us/articles/4410824602903-RedEdge-P-Integration-Guide,MicaSense,public_page
+SRC-CAM-0020,CMP-CAM-0020,manufacturer_product_or_spec,https://thinklucid.com/product/phoenix-5-0-mp-polarized-model/,LUCID Vision Labs,public_page

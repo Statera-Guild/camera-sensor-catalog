@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0016,Allied Vision,Goldeye G-033 SWIR TECless,Goldeye G-033 SWIR TECless (exact orderable SKU not_verified),listed,not_verified,not_tested,wave_04
+CMP-CAM-0017,Prophesee,EVK4 HD,EVK4 HD (exact orderable SKU not_verified),listed,not_verified,not_tested,wave_04
+CMP-CAM-0018,LMI Technologies,Gocator 2530,Gocator 2530 (orderable part number not_verified),listed,not_verified,not_tested,wave_04
+CMP-CAM-0019,MicaSense,RedEdge-P,RedEdge-P (exact orderable SKU not_verified),listed,not_verified,not_tested,wave_04
+CMP-CAM-0020,LUCID Vision Labs,Phoenix PHX050S-PC,PHX050S-PC,listed,not_verified,not_tested,wave_04

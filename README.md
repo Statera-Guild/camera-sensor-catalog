@@ -42,4 +42,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 - [CMP-CAM-0013](component_cards/CMP-CAM-0013.md) — Teledyne FLIR Boson+ 640 50deg 22640A050
 - [CMP-CAM-0014](component_cards/CMP-CAM-0014.md) — Teledyne DALSA Linea Mono 4k LA-GM-04K08A
 - [CMP-CAM-0015](component_cards/CMP-CAM-0015.md) — Basler ace 2 a2A1920-160umBAS
+- [CMP-CAM-0016](component_cards/CMP-CAM-0016.md) — Allied Vision Goldeye G-033 SWIR TECless
+- [CMP-CAM-0017](component_cards/CMP-CAM-0017.md) — Prophesee EVK4 HD
+- [CMP-CAM-0018](component_cards/CMP-CAM-0018.md) — LMI Technologies Gocator 2530
+- [CMP-CAM-0019](component_cards/CMP-CAM-0019.md) — MicaSense RedEdge-P
+- [CMP-CAM-0020](component_cards/CMP-CAM-0020.md) — LUCID Vision Labs Phoenix PHX050S-PC
 <!-- CAMERA_CATALOG_END -->
