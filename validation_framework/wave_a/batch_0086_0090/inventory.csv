@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0086,RealSense,D435f,D435f (orderable SKU not_verified),listed,not_verified,not_tested,wave_18,rgbd_depth_camera
+CMP-CAM-0087,Orbbec,Astra+,Astra+ (orderable SKU not_verified),listed,not_verified,not_tested,wave_18,rgbd_depth_camera
+CMP-CAM-0088,Stereolabs,ZED X One 4K Narrow,ZED X One 4K Narrow (orderable SKU not_verified),listed,not_verified,not_tested,wave_18,monocular_camera
+CMP-CAM-0089,Teledyne FLIR,A400,A400 (orderable SKU not_verified),listed,not_verified,not_tested,wave_18,thermal_camera
+CMP-CAM-0090,Basler,ace acA2440-35uc,ace acA2440-35uc (orderable SKU not_verified),listed,not_verified,not_tested,wave_18,industrial_color_camera

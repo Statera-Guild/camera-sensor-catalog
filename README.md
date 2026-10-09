@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 85 / 160 (53.125%) — Waves 1–17**
+**Registered: 90 / 160 (56.250%) — Waves 1–18**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -95,4 +95,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0083](component_cards/CMP-CAM-0083.md) | Teledyne FLIR | Lepton 2.5 | C05 | listed | not_verified | not_tested |
 | [CMP-CAM-0084](component_cards/CMP-CAM-0084.md) | Allied Vision | Alvium 1800 C-040c | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0085](component_cards/CMP-CAM-0085.md) | Basler | dart daA4200-30mci | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0086](component_cards/CMP-CAM-0086.md) | RealSense | D435f | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0087](component_cards/CMP-CAM-0087.md) | Orbbec | Astra+ | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0088](component_cards/CMP-CAM-0088.md) | Stereolabs | ZED X One 4K Narrow | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0089](component_cards/CMP-CAM-0089.md) | Teledyne FLIR | A400 | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0090](component_cards/CMP-CAM-0090.md) | Basler | ace acA2440-35uc | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

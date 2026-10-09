@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0086,CMP-CAM-0086,manufacturer_homepage_reference,https://www.realsenseai.com/,RealSense,url_recorded_not_live_verified
+SRC-CAM-0087,CMP-CAM-0087,manufacturer_homepage_reference,https://www.orbbec.com/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0088,CMP-CAM-0088,manufacturer_homepage_reference,https://www.stereolabs.com/,Stereolabs,url_recorded_not_live_verified
+SRC-CAM-0089,CMP-CAM-0089,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0090,CMP-CAM-0090,manufacturer_homepage_reference,https://www.baslerweb.com/,Basler,url_recorded_not_live_verified
