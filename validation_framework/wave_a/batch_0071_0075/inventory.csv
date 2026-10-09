@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0071,Luxonis,OAK-D PoE,OAK-D PoE (orderable SKU not_verified),listed,not_verified,not_tested,wave_15,embedded_stereo_camera
+CMP-CAM-0072,IDS Imaging,Ensenso S10,Ensenso S10 (orderable SKU not_verified),listed,not_verified,not_tested,wave_15,stereo_3d_camera
+CMP-CAM-0073,Allied Vision,Mako G-319C,Mako G-319C (orderable SKU not_verified),listed,not_verified,not_tested,wave_15,industrial_area_scan_camera
+CMP-CAM-0074,Teledyne FLIR,Blackfly S BFS-U3-31S4C-C,Blackfly S BFS-U3-31S4C-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_15,industrial_area_scan_camera
+CMP-CAM-0075,LUCID Vision Labs,Triton TRI032S-C,Triton TRI032S-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_15,industrial_area_scan_camera

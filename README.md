@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 70 / 160 (43.750%) — Waves 1–14**
+**Registered: 75 / 160 (46.875%) — Waves 1–15**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -80,4 +80,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0068](component_cards/CMP-CAM-0068.md) | Stereolabs | ZED X One GS | C03 | listed | not_verified | not_tested |
 | [CMP-CAM-0069](component_cards/CMP-CAM-0069.md) | Teledyne FLIR | Blackfly S BFS-U3-23S3C-C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0070](component_cards/CMP-CAM-0070.md) | Basler | ace 2 a2A3840-45ucBAS | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0071](component_cards/CMP-CAM-0071.md) | Luxonis | OAK-D PoE | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0072](component_cards/CMP-CAM-0072.md) | IDS Imaging | Ensenso S10 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0073](component_cards/CMP-CAM-0073.md) | Allied Vision | Mako G-319C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0074](component_cards/CMP-CAM-0074.md) | Teledyne FLIR | Blackfly S BFS-U3-31S4C-C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0075](component_cards/CMP-CAM-0075.md) | LUCID Vision Labs | Triton TRI032S-C | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

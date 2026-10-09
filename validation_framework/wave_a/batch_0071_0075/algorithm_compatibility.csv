@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0071,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0071,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0071,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0072,3D reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0072,bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0072,point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0073,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0073,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0073,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0074,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0074,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0074,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0075,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0075,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0075,feature tracking,candidate_input_only,not_tested,not_verified
