@@ -3,10 +3,10 @@ import csv,re
 r=Path(__file__).resolve().parent
 def read(p):
  with p.open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
-rows=read(r/'validation_framework/integration/master_catalog_0001_0090.csv')
+rows=read(r/'validation_framework/integration/master_catalog_0001_0095.csv')
 ids=[x['component_id'] for x in rows]
-assert ids==[f'CMP-CAM-{i:04d}' for i in range(1,91)]
-assert len({(x['manufacturer'].casefold(),x['orderable_sku'].casefold()) for x in rows})==90
+assert ids==[f'CMP-CAM-{i:04d}' for i in range(1,96)]
+assert len({(x['manufacturer'].casefold(),x['orderable_sku'].casefold()) for x in rows})==95
 for x in rows:
  assert (r/'component_cards'/f"{x['component_id']}.md").exists()
  assert x['manufacturer_evidence_url'].startswith('https://')
@@ -20,7 +20,7 @@ assert readme.count('## Component Index')==1
 assert readme.count('<!-- CAMERA_CATALOG_START -->')==1
 assert readme.count('<!-- CAMERA_CATALOG_END -->')==1
 assert 'PAI-SG-CAMERA-CATALOG:START' not in readme
-assert len(re.findall(r'^\| \[CMP-CAM-\d{4}\]',readme,re.M))==90
+assert len(re.findall(r'^\| \[CMP-CAM-\d{4}\]',readme,re.M))==95
 for cid in ids:assert readme.count(f'[{cid}](component_cards/{cid}.md)')==1,cid
-assert '**Registered: 90 / 160' in readme
-print('PASS: Waves 01-18; 90 unique IDs, 90 cards, evidence CSVs, single README table')
+assert '**Registered: 95 / 160' in readme
+print('PASS: Waves 01-19; 95 unique IDs, 95 cards, evidence CSVs, single README table')

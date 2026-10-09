@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0091,Luxonis,OAK-D Pro W,OAK-D Pro W (orderable SKU not_verified),listed,not_verified,not_tested,wave_19,embedded_stereo_camera
+CMP-CAM-0092,IDS Imaging,Ensenso N45,Ensenso N45 (orderable SKU not_verified),listed,not_verified,not_tested,wave_19,stereo_3d_camera
+CMP-CAM-0093,Teledyne FLIR,Boson+ 320,Boson+ 320 (orderable SKU not_verified),listed,not_verified,not_tested,wave_19,thermal_camera_module
+CMP-CAM-0094,Zivid,Zivid 2+ M130,Zivid 2+ M130 (orderable SKU not_verified),listed,not_verified,not_tested,wave_19,industrial_3d_camera
+CMP-CAM-0095,MicaSense,Altum,Altum (orderable SKU not_verified),listed,not_verified,not_tested,wave_19,multispectral_camera

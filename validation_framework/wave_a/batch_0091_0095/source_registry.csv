@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0091,CMP-CAM-0091,manufacturer_homepage_reference,https://luxonis.com/,Luxonis,url_recorded_not_live_verified
+SRC-CAM-0092,CMP-CAM-0092,manufacturer_homepage_reference,https://en.ids-imaging.com/,IDS Imaging,url_recorded_not_live_verified
+SRC-CAM-0093,CMP-CAM-0093,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0094,CMP-CAM-0094,manufacturer_homepage_reference,https://www.zivid.com/,Zivid,url_recorded_not_live_verified
+SRC-CAM-0095,CMP-CAM-0095,manufacturer_homepage_reference,https://micasense.com/,MicaSense,url_recorded_not_live_verified

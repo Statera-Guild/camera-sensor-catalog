@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0091,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0091,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0091,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0092,3D reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0092,bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0092,point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0093,thermal detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0093,thermal segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0093,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0094,3D reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0094,bin picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0094,point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0095,multispectral classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0095,semantic segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0095,vegetation analysis,candidate_input_only,not_tested,not_verified

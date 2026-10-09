@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 90 / 160 (56.250%) — Waves 1–18**
+**Registered: 95 / 160 (59.375%) — Waves 1–19**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -100,4 +100,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0088](component_cards/CMP-CAM-0088.md) | Stereolabs | ZED X One 4K Narrow | C03 | listed | not_verified | not_tested |
 | [CMP-CAM-0089](component_cards/CMP-CAM-0089.md) | Teledyne FLIR | A400 | C05 | listed | not_verified | not_tested |
 | [CMP-CAM-0090](component_cards/CMP-CAM-0090.md) | Basler | ace acA2440-35uc | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0091](component_cards/CMP-CAM-0091.md) | Luxonis | OAK-D Pro W | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0092](component_cards/CMP-CAM-0092.md) | IDS Imaging | Ensenso N45 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0093](component_cards/CMP-CAM-0093.md) | Teledyne FLIR | Boson+ 320 | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0094](component_cards/CMP-CAM-0094.md) | Zivid | Zivid 2+ M130 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0095](component_cards/CMP-CAM-0095.md) | MicaSense | Altum | C07 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
