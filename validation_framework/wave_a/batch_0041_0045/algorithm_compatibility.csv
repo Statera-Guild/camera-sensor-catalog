@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0041,RGB-D mapping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0041,3D object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0041,human pose estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0042,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0042,depth perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0042,robot navigation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0043,stereo depth,candidate_input_only,not_tested,not_verified
+CMP-CAM-0043,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0043,spatial mapping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0044,machine vision inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0044,visual localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0044,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0045,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0045,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0045,robot vision,candidate_input_only,not_tested,not_verified

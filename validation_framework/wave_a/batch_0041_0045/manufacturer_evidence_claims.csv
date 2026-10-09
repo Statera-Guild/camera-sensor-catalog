@@ -1,0 +1,36 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0041,SRC-CAM-0041,output_type,RGB / ToF depth,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,interface,Ethernet / USB (configuration not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,image_sensor,ToF depth + RGB,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0041,SRC-CAM-0041,product_form_factor,integrated_depth_camera,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,output_type,Stereo depth / RGB / IMU,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,interface,GMSL / FAKRA (configuration not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,image_sensor,Stereo IR + RGB,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0042,SRC-CAM-0042,product_form_factor,integrated_depth_camera,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,output_type,Stereo RGB / SDK depth / IMU,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,interface,USB (revision not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,image_sensor,Dual RGB stereo,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0043,SRC-CAM-0043,product_form_factor,integrated_stereo_camera,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,output_type,Monochrome image,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,interface,USB 3 (SKU confirmation required),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,image_sensor,CMOS (part number not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0044,SRC-CAM-0044,product_form_factor,industrial_camera,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,output_type,Color image,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,shutter_type,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,resolution,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,fps,not_verified,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,interface,USB 3 (SKU confirmation required),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,image_sensor,CMOS (part number not_verified),family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified
+CMP-CAM-0045,SRC-CAM-0045,product_form_factor,camera_module,family_level_or_unverified; requires SKU-specific manufacturer confirmation,not_verified

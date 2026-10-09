@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0041,Orbbec,Femto Mega,Femto Mega (orderable SKU not_verified),listed,not_verified,not_tested,wave_09,integrated_depth_camera
+CMP-CAM-0042,RealSense,D457,D457 (orderable SKU not_verified),listed,not_verified,not_tested,wave_09,integrated_depth_camera
+CMP-CAM-0043,Stereolabs,ZED Mini,ZED Mini (orderable SKU not_verified),listed,not_verified,not_tested,wave_09,integrated_stereo_camera
+CMP-CAM-0044,Teledyne FLIR,Blackfly S BFS-U3-04S2M-CS,Blackfly S BFS-U3-04S2M-CS (orderable SKU not_verified),listed,not_verified,not_tested,wave_09,industrial_camera
+CMP-CAM-0045,Basler,dart daA2500-14uc,dart daA2500-14uc (orderable SKU not_verified),listed,not_verified,not_tested,wave_09,camera_module

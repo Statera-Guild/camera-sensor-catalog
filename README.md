@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 40 / 160 (25.000%) — Waves 1–8**
+**Registered: 45 / 160 (28.125%) — Waves 1–9**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -50,4 +50,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0038](component_cards/CMP-CAM-0038.md) | Stereolabs | ZED 2 | C02 | listed | not_verified | not_tested |
 | [CMP-CAM-0039](component_cards/CMP-CAM-0039.md) | Luxonis | OAK-FFC 4P | C08 | listed | not_verified | not_tested |
 | [CMP-CAM-0040](component_cards/CMP-CAM-0040.md) | Teledyne FLIR | Boson 320 | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0041](component_cards/CMP-CAM-0041.md) | Orbbec | Femto Mega | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0042](component_cards/CMP-CAM-0042.md) | RealSense | D457 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0043](component_cards/CMP-CAM-0043.md) | Stereolabs | ZED Mini | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0044](component_cards/CMP-CAM-0044.md) | Teledyne FLIR | Blackfly S BFS-U3-04S2M-CS | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0045](component_cards/CMP-CAM-0045.md) | Basler | dart daA2500-14uc | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

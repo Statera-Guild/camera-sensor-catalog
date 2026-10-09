@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0041,CMP-CAM-0041,manufacturer_product_or_family,https://www.orbbec.com/products/tof-camera/femto-mega/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0042,CMP-CAM-0042,manufacturer_product_or_family,https://www.realsenseai.com/depth-camera-d457/,RealSense,url_recorded_not_live_verified
+SRC-CAM-0043,CMP-CAM-0043,manufacturer_product_or_family,https://www.stereolabs.com/,Stereolabs,url_recorded_not_live_verified
+SRC-CAM-0044,CMP-CAM-0044,manufacturer_product_or_family,https://www.flir.com/browse/industrial/machine-vision-cameras/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0045,CMP-CAM-0045,manufacturer_product_or_family,https://www.baslerweb.com/,Basler,url_recorded_not_live_verified

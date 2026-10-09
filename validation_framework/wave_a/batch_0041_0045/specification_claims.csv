@@ -1,0 +1,36 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0041,output_type,RGB / ToF depth,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,shutter_type,not_verified,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,resolution,not_verified,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,fps,not_verified,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,interface,Ethernet / USB (configuration not_verified),SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,image_sensor,ToF depth + RGB,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0041,product_form_factor,integrated_depth_camera,SRC-CAM-0041,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,output_type,Stereo depth / RGB / IMU,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,shutter_type,not_verified,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,resolution,not_verified,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,fps,not_verified,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,interface,GMSL / FAKRA (configuration not_verified),SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,image_sensor,Stereo IR + RGB,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0042,product_form_factor,integrated_depth_camera,SRC-CAM-0042,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,output_type,Stereo RGB / SDK depth / IMU,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,shutter_type,not_verified,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,resolution,not_verified,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,fps,not_verified,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,interface,USB (revision not_verified),SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,image_sensor,Dual RGB stereo,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0043,product_form_factor,integrated_stereo_camera,SRC-CAM-0043,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,output_type,Monochrome image,SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,shutter_type,not_verified,SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,resolution,not_verified,SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,fps,not_verified,SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,interface,USB 3 (SKU confirmation required),SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,image_sensor,CMOS (part number not_verified),SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0044,product_form_factor,industrial_camera,SRC-CAM-0044,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,output_type,Color image,SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,shutter_type,not_verified,SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,resolution,not_verified,SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,fps,not_verified,SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,interface,USB 3 (SKU confirmation required),SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,image_sensor,CMOS (part number not_verified),SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0045,product_form_factor,camera_module,SRC-CAM-0045,manufacturer_family_reference_or_unverified,not_verified
