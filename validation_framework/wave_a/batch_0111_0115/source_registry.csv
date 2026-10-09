@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0111,CMP-CAM-0111,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0112,CMP-CAM-0112,manufacturer_homepage_reference,https://en.ids-imaging.us/,IDS Imaging,url_recorded_not_live_verified
+SRC-CAM-0113,CMP-CAM-0113,manufacturer_homepage_reference,https://www.specim.com/,Specim,url_recorded_not_live_verified
+SRC-CAM-0114,CMP-CAM-0114,manufacturer_homepage_reference,https://www.photoneo.com/,Photoneo,url_recorded_not_live_verified
+SRC-CAM-0115,CMP-CAM-0115,manufacturer_homepage_reference,https://www.alliedvision.com/,Allied Vision,url_recorded_not_live_verified

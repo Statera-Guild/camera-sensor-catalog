@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0111,output_type,thermal imaging camera,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0111,shutter_type,not_verified,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0111,resolution,not_verified,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0111,fps,not_verified,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0111,interface,not_verified,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0111,image_sensor,not_verified,SRC-CAM-0111,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,output_type,industrial 3D stereo camera,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,shutter_type,not_verified,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,resolution,not_verified,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,fps,not_verified,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,interface,not_verified,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0112,image_sensor,not_verified,SRC-CAM-0112,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,output_type,hyperspectral imaging camera,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,shutter_type,not_verified,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,resolution,not_verified,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,fps,not_verified,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,interface,not_verified,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0113,image_sensor,not_verified,SRC-CAM-0113,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,output_type,industrial 3D sensing camera,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,shutter_type,not_verified,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,resolution,not_verified,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,fps,not_verified,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,interface,not_verified,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0114,image_sensor,not_verified,SRC-CAM-0114,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,output_type,industrial SWIR camera,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,shutter_type,not_verified,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,resolution,not_verified,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,fps,not_verified,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,interface,not_verified,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0115,image_sensor,not_verified,SRC-CAM-0115,editorial_candidate_not_manufacturer_verified,not_verified

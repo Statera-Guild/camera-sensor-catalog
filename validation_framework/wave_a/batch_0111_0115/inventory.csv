@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0111,Teledyne FLIR,A500,A500 (orderable SKU not_verified),listed,not_verified,not_tested,wave_23,thermal_camera
+CMP-CAM-0112,IDS Imaging,Ensenso C57,Ensenso C57 (orderable SKU not_verified),listed,not_verified,not_tested,wave_23,stereo_3d_camera
+CMP-CAM-0113,Specim,FX50,FX50 (orderable SKU not_verified),listed,not_verified,not_tested,wave_23,hyperspectral_camera
+CMP-CAM-0114,Photoneo,MotionCam-3D Color,MotionCam-3D Color (orderable SKU not_verified),listed,not_verified,not_tested,wave_23,industrial_3d_camera
+CMP-CAM-0115,Allied Vision,Goldeye G-130,Goldeye G-130 (orderable SKU not_verified),listed,not_verified,not_tested,wave_23,swir_camera

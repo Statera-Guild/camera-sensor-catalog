@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0111,SRC-CAM-0111,output_type,thermal imaging camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0111,SRC-CAM-0111,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0111,SRC-CAM-0111,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0111,SRC-CAM-0111,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0111,SRC-CAM-0111,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0111,SRC-CAM-0111,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,output_type,industrial 3D stereo camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0112,SRC-CAM-0112,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,output_type,hyperspectral imaging camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0113,SRC-CAM-0113,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,output_type,industrial 3D sensing camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0114,SRC-CAM-0114,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,output_type,industrial SWIR camera,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0115,SRC-CAM-0115,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified

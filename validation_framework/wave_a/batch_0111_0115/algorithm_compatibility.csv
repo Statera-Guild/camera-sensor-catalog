@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0111,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0111,condition monitoring,candidate_input_only,not_tested,not_verified
+CMP-CAM-0111,thermal inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0112,3D reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0112,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0112,robot guidance,candidate_input_only,not_tested,not_verified
+CMP-CAM-0113,spectral classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0113,material identification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0113,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0114,3D object localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0114,point cloud segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0114,robot picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0115,SWIR inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0115,material classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0115,defect detection,candidate_input_only,not_tested,not_verified

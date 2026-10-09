@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 110 / 160 (68.750%) — Waves 1–22**
+**Registered: 115 / 160 (71.875%) — Waves 1–23**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -120,4 +120,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0108](component_cards/CMP-CAM-0108.md) | Teledyne FLIR | Blackfly S BFS-U3-13Y3C-C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0109](component_cards/CMP-CAM-0109.md) | Luxonis | OAK-D CM4 | C05 | listed | not_verified | not_tested |
 | [CMP-CAM-0110](component_cards/CMP-CAM-0110.md) | Orbbec | Gemini 2 XL | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0111](component_cards/CMP-CAM-0111.md) | Teledyne FLIR | A500 | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0112](component_cards/CMP-CAM-0112.md) | IDS Imaging | Ensenso C57 | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0113](component_cards/CMP-CAM-0113.md) | Specim | FX50 | C09 | listed | not_verified | not_tested |
+| [CMP-CAM-0114](component_cards/CMP-CAM-0114.md) | Photoneo | MotionCam-3D Color | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0115](component_cards/CMP-CAM-0115.md) | Allied Vision | Goldeye G-130 | C07 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
