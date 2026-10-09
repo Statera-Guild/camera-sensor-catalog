@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0011,CMP-CAM-0011,manufacturer_product_or_spec,https://www.orbbec.com/wp-content/uploads/2023/04/ORBBEC_Datasheet_Astra-2.pdf,Orbbec,public_page
+SRC-CAM-0012,CMP-CAM-0012,manufacturer_product_or_spec,https://www.baslerweb.com/en/shop/a2a2448-75umbas/,Basler,public_page
+SRC-CAM-0013,CMP-CAM-0013,manufacturer_product_or_spec,https://oem.flir.com/products/boson-plus/?model=22640A050,Teledyne FLIR,public_page
+SRC-CAM-0014,CMP-CAM-0014,manufacturer_product_or_spec,https://www.teledynedalsa.com/EN/PRODUCTS/IMAGING/CAMERAS/LINEA/,Teledyne DALSA,public_page
+SRC-CAM-0015,CMP-CAM-0015,manufacturer_product_or_spec,https://www.baslerweb.com/en/shop/a2a1920-160umbas/,Basler,public_page

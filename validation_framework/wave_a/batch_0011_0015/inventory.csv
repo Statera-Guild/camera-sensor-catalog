@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0011,Orbbec,Astra 2,A30003-15,listed,not_verified,not_tested,wave_03
+CMP-CAM-0012,Basler,ace 2 a2A2448-75umBAS,a2A2448-75umBAS,listed,not_verified,not_tested,wave_03
+CMP-CAM-0013,Teledyne FLIR,Boson+ 640 50deg 22640A050,22640A050,listed,not_verified,not_tested,wave_03
+CMP-CAM-0014,Teledyne DALSA,Linea Mono 4k LA-GM-04K08A,LA-GM-04K08A,listed,not_verified,not_tested,wave_03
+CMP-CAM-0015,Basler,ace 2 a2A1920-160umBAS,a2A1920-160umBAS,listed,not_verified,not_tested,wave_03

@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0011,SRC-CAM-0011,output_type,RGB / Structured Light Depth / IR,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0011,SRC-CAM-0011,shutter_type,IR Global; RGB Rolling,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0011,SRC-CAM-0011,resolution,1600x1200 depth,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0011,SRC-CAM-0011,fps,30 at 1600x1200 depth,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0011,SRC-CAM-0011,interface,USB 3.0 / USB 2.0,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0011,SRC-CAM-0011,image_sensor,Structured light 850 nm,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,output_type,Mono,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,shutter_type,Global,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,resolution,2448x2048 default,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,fps,75 (manufacturer headline),manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,interface,USB 3.0,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0012,SRC-CAM-0012,image_sensor,Sony IMX547,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,output_type,Thermal LWIR,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,shutter_type,not_verified,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,resolution,640x512,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,fps,60 Hz baseline; 30 Hz selectable,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,interface,USB / CMOS / MIPI options (configuration dependent),manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0013,SRC-CAM-0013,image_sensor,12 um LWIR detector,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,output_type,Mono line scan,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,shutter_type,Line scan,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,resolution,4096x1,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,fps,26 kHz line rate; TurboDrive up to 80 kHz,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,interface,GigE Vision,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0014,SRC-CAM-0014,image_sensor,CMOS line scan,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,output_type,Mono,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,shutter_type,Global,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,resolution,1920x1200 default,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,fps,160 (manufacturer headline),manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,interface,USB 3.0,manufacturer_documented_or_configuration_qualified,not_verified
+CMP-CAM-0015,SRC-CAM-0015,image_sensor,Sony IMX392,manufacturer_documented_or_configuration_qualified,not_verified

@@ -1,0 +1,17 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0011,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0011,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0011,robot manipulation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0012,2D detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0012,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0012,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0012,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0013,thermal detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0013,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0013,thermal tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0014,line scan inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0014,defect detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0014,surface anomaly,candidate_input_only,not_tested,not_verified
+CMP-CAM-0015,high-speed inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0015,MOT,candidate_input_only,not_tested,not_verified
+CMP-CAM-0015,object detection,candidate_input_only,not_tested,not_verified
