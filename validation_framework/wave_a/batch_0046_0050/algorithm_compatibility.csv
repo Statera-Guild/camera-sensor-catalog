@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0046,industrial object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0046,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0046,multi-camera calibration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0047,industrial object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0047,defect detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0047,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0048,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0048,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0048,robot perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0049,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0049,hotspot inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0049,thermal monitoring,candidate_input_only,not_tested,not_verified
+CMP-CAM-0050,industrial inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0050,robot localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0050,object detection,candidate_input_only,not_tested,not_verified

@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0046,CMP-CAM-0046,manufacturer_homepage_reference,https://www.alliedvision.com/,Allied Vision,url_recorded_not_live_verified
+SRC-CAM-0047,CMP-CAM-0047,manufacturer_homepage_reference,https://www.baslerweb.com/,Basler,url_recorded_not_live_verified
+SRC-CAM-0048,CMP-CAM-0048,manufacturer_homepage_reference,https://en.ids-imaging.com/,IDS Imaging,url_recorded_not_live_verified
+SRC-CAM-0049,CMP-CAM-0049,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0050,CMP-CAM-0050,manufacturer_homepage_reference,https://thinklucid.com/,LUCID Vision Labs,url_recorded_not_live_verified

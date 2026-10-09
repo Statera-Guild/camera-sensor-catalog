@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0046,Allied Vision,Mako G-125C,Mako G-125C (orderable SKU not_verified),listed,not_verified,not_tested,wave_10,industrial_camera
+CMP-CAM-0047,Basler,ace 2 a2A2590-60ucBAS,ace 2 a2A2590-60ucBAS (orderable SKU not_verified),listed,not_verified,not_tested,wave_10,industrial_camera
+CMP-CAM-0048,IDS Imaging,uEye+ U3-3680XCP,uEye+ U3-3680XCP (orderable SKU not_verified),listed,not_verified,not_tested,wave_10,industrial_camera
+CMP-CAM-0049,Teledyne FLIR,A70,A70 (orderable SKU not_verified),listed,not_verified,not_tested,wave_10,thermal_camera
+CMP-CAM-0050,LUCID Vision Labs,Triton TRI050S-C,Triton TRI050S-C (orderable SKU not_verified),listed,not_verified,not_tested,wave_10,industrial_camera

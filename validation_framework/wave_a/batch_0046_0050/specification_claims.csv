@@ -1,0 +1,36 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0046,output_type,RGB color,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,shutter_type,not_verified,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,resolution,not_verified,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,fps,not_verified,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,interface,GigE Vision (confirm exact variant),SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,image_sensor,CMOS color,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0046,product_form_factor,industrial_camera,SRC-CAM-0046,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,output_type,RGB color,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,shutter_type,not_verified,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,resolution,not_verified,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,fps,not_verified,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,interface,USB 3.0 (confirm exact variant),SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,image_sensor,CMOS color,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0047,product_form_factor,industrial_camera,SRC-CAM-0047,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,output_type,RGB color,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,shutter_type,not_verified,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,resolution,not_verified,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,fps,not_verified,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,interface,USB3 (confirm exact variant),SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,image_sensor,CMOS color,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0048,product_form_factor,industrial_camera,SRC-CAM-0048,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,output_type,Thermal image,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,shutter_type,not_verified,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,resolution,not_verified,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,fps,not_verified,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,interface,Ethernet (configuration not_verified),SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,image_sensor,Uncooled thermal detector,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0049,product_form_factor,thermal_camera,SRC-CAM-0049,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,output_type,RGB color,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,shutter_type,not_verified,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,resolution,not_verified,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,fps,not_verified,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,interface,GigE Vision (confirm exact variant),SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,image_sensor,CMOS color,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0050,product_form_factor,industrial_camera,SRC-CAM-0050,editorial_candidate_not_manufacturer_verified,not_verified
