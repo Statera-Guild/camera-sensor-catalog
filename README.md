@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 25 / 160 (15.625%) — Waves 1–5**
+**Registered: 30 / 160 (18.750%) — Waves 1–6**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -35,4 +35,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0023](component_cards/CMP-CAM-0023.md) | Specim | FX10 | C14 | listed | not_verified | not_tested |
 | [CMP-CAM-0024](component_cards/CMP-CAM-0024.md) | Luxonis | OAK-D S2 | C08 | listed | not_verified | not_tested |
 | [CMP-CAM-0025](component_cards/CMP-CAM-0025.md) | e-con Systems | STURDeCAM25 | C07 | listed | not_verified | not_tested |
+| [CMP-CAM-0026](component_cards/CMP-CAM-0026.md) | Basler | blaze-101 | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0027](component_cards/CMP-CAM-0027.md) | Stereolabs | ZED 2i | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0028](component_cards/CMP-CAM-0028.md) | Teledyne FLIR | A50 | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0029](component_cards/CMP-CAM-0029.md) | Allied Vision | Alvium 1800 U-500c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0030](component_cards/CMP-CAM-0030.md) | Orbbec | Gemini 336 | C03 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

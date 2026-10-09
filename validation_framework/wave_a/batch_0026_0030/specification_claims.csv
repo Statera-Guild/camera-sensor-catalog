@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0026,output_type,Depth / intensity / point cloud,SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0026,shutter_type,N/A (ToF),SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0026,resolution,not_verified,SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0026,fps,not_verified,SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0026,interface,GigE Vision (variant details not_verified),SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0026,image_sensor,ToF sensor not_verified,SRC-CAM-0026,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,output_type,Stereo RGB / SDK depth,SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,shutter_type,not_verified,SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,resolution,not_verified,SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,fps,not_verified,SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,interface,USB 3.0 (variant not_verified),SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0027,image_sensor,Stereo RGB sensors,SRC-CAM-0027,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,output_type,Thermal infrared,SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,shutter_type,not_verified,SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,resolution,not_verified,SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,fps,not_verified,SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,interface,Ethernet (variant not_verified),SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0028,image_sensor,LWIR detector not_verified,SRC-CAM-0028,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,output_type,RGB,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,shutter_type,not_verified,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,resolution,not_verified,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,fps,not_verified,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,interface,USB3 Vision,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0029,image_sensor,CMOS sensor not_verified,SRC-CAM-0029,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,output_type,RGB / IR / depth,SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,shutter_type,not_verified,SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,resolution,not_verified,SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,fps,not_verified,SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,interface,USB (exact version not_verified),SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified
+CMP-CAM-0030,image_sensor,Stereo depth sensors,SRC-CAM-0030,manufacturer_family_reference_or_unverified,not_verified

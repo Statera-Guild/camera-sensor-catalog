@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-CAM-0026,Basler,blaze-101,blaze-101 (orderable variant not_verified),listed,not_verified,not_tested,wave_06
+CMP-CAM-0027,Stereolabs,ZED 2i,ZED 2i (lens/variant not_verified),listed,not_verified,not_tested,wave_06
+CMP-CAM-0028,Teledyne FLIR,A50,A50 (configuration not_verified),listed,not_verified,not_tested,wave_06
+CMP-CAM-0029,Allied Vision,Alvium 1800 U-500c,1800 U-500c (part number not_verified),listed,not_verified,not_tested,wave_06
+CMP-CAM-0030,Orbbec,Gemini 336,Gemini 336 (orderable SKU not_verified),listed,not_verified,not_tested,wave_06

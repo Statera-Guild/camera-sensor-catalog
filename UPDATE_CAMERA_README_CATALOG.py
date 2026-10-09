@@ -11,6 +11,7 @@ text=re.sub(r'(?ms)^<!-- PAI-SG-CAMERA-CATALOG:START -->\n.*?^<!-- PAI-SG-CAMERA
 text=re.sub(r'(?ms)^## Component index\n<!-- CAMERA_CATALOG_START -->\n.*?^<!-- CAMERA_CATALOG_END -->\n?', '',text)
 text=re.sub(r'(?ms)^## Component Index\n<!-- CAMERA_CATALOG_START -->\n.*?^<!-- CAMERA_CATALOG_END -->\n?', '',text)
 text=re.sub(r'(?m)^\*\*Registered: .*?\*\*\s*\n','',text)
+text=re.sub(r'(?ms)^<!-- CAMERA_CATALOG_START -->\n.*?^<!-- CAMERA_CATALOG_END -->\n?', '',text)
 text=text.rstrip()+'\n\n'
 lines=['<!-- CAMERA_CATALOG_START -->','## Component Index',f'**Registered: {len(rows)} / 160 ({len(rows)/160*100:.3f}%) — Waves 1–{len(rows)//5}**','','| Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |','|---|---|---|---|---|---|---|']
 for x in rows:

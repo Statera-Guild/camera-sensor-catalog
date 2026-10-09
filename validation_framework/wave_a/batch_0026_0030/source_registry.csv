@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0026,CMP-CAM-0026,manufacturer_product_or_family,https://www.baslerweb.com/en/shop/blaze-101/,Basler,url_recorded_not_live_verified
+SRC-CAM-0027,CMP-CAM-0027,manufacturer_product_or_family,https://www.stereolabs.com/store/products/zed-2i,Stereolabs,url_recorded_not_live_verified
+SRC-CAM-0028,CMP-CAM-0028,manufacturer_product_or_family,https://www.flir.com/products/a50-a70-image-streaming/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0029,CMP-CAM-0029,manufacturer_product_or_family,https://www.alliedvision.com/en/products/area-scan-cameras/alvium-1800-u/,Allied Vision,url_recorded_not_live_verified
+SRC-CAM-0030,CMP-CAM-0030,manufacturer_product_or_family,https://www.orbbec.com/products/stereo-vision-camera/gemini-336/,Orbbec,url_recorded_not_live_verified
