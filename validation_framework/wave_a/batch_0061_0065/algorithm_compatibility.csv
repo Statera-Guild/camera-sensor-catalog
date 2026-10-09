@@ -1,0 +1,15 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0061,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0061,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0061,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0062,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0062,thermal segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0063,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0063,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0063,visual SLAM,candidate_input_only,not_tested,not_verified
+CMP-CAM-0064,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0064,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0064,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0065,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0065,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0065,feature tracking,candidate_input_only,not_tested,not_verified

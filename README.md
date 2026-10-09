@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 60 / 160 (37.500%) — Waves 1–12**
+**Registered: 65 / 160 (40.625%) — Waves 1–13**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -70,4 +70,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0058](component_cards/CMP-CAM-0058.md) | MicaSense | Altum-PT | C06 | listed | not_verified | not_tested |
 | [CMP-CAM-0059](component_cards/CMP-CAM-0059.md) | Specim | FX17 | C06 | listed | not_verified | not_tested |
 | [CMP-CAM-0060](component_cards/CMP-CAM-0060.md) | Zivid | Zivid 2+ LR110 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0061](component_cards/CMP-CAM-0061.md) | Luxonis | OAK-D Lite | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0062](component_cards/CMP-CAM-0062.md) | Teledyne FLIR | Lepton 3.1 | C05 | listed | not_verified | not_tested |
+| [CMP-CAM-0063](component_cards/CMP-CAM-0063.md) | RealSense | D415 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0064](component_cards/CMP-CAM-0064.md) | Allied Vision | Mako G-234C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0065](component_cards/CMP-CAM-0065.md) | Basler | ace acA1300-30gm | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0061,Luxonis,OAK-D Lite,OAK-D Lite (orderable SKU not_verified),listed,not_verified,not_tested,wave_13,embedded_ai_camera
+CMP-CAM-0062,Teledyne FLIR,Lepton 3.1,Lepton 3.1 (orderable SKU not_verified),listed,not_verified,not_tested,wave_13,thermal_camera_module
+CMP-CAM-0063,RealSense,D415,D415 (orderable SKU not_verified),listed,not_verified,not_tested,wave_13,depth_camera
+CMP-CAM-0064,Allied Vision,Mako G-234C,Mako G-234C (orderable SKU not_verified),listed,not_verified,not_tested,wave_13,industrial_area_scan_camera
+CMP-CAM-0065,Basler,ace acA1300-30gm,ace acA1300-30gm (orderable SKU not_verified),listed,not_verified,not_tested,wave_13,industrial_area_scan_camera
