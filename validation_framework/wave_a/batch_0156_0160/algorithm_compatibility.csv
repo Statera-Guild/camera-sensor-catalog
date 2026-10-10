@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0156,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0156,industrial inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0156,visual localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0157,high-speed inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0157,feature tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0157,visual metrology,candidate_input_only,not_tested,not_verified
+CMP-CAM-0158,SWIR anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0158,material inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0158,spectral perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0159,spectral classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0159,material identification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0159,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0160,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0160,visual tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0160,robot teleoperation,candidate_input_only,not_tested,not_verified

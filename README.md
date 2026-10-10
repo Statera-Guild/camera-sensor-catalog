@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 155 / 160 (96.875%) — Waves 1–31**
+**Registered: 160 / 160 (100.000%) — Waves 1–32**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -165,4 +165,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0153](component_cards/CMP-CAM-0153.md) | Mech-Mind Robotics | Mech-Eye PRO S | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0154](component_cards/CMP-CAM-0154.md) | Nerian Vision | Scarlet 3D | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0155](component_cards/CMP-CAM-0155.md) | Emergent Vision Technologies | Bolt HB-12000-SB | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0156](component_cards/CMP-CAM-0156.md) | SVS-Vistek | exo540CU3 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0157](component_cards/CMP-CAM-0157.md) | Photonfocus | MV1-D1312-160-G2 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0158](component_cards/CMP-CAM-0158.md) | Xenics | Bobcat 640 | C13 | listed | not_verified | not_tested |
+| [CMP-CAM-0159](component_cards/CMP-CAM-0159.md) | Cubert | ULTRIS X20 | C14 | listed | not_verified | not_tested |
+| [CMP-CAM-0160](component_cards/CMP-CAM-0160.md) | TAMRON | MP3010M-EV | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

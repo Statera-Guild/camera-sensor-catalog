@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0156,SVS-Vistek,exo540CU3,exo540CU3 (orderable SKU not_verified),listed,not_verified,not_tested,wave_32,industrial_usb3_camera
+CMP-CAM-0157,Photonfocus,MV1-D1312-160-G2,MV1-D1312-160-G2 (orderable SKU not_verified),listed,not_verified,not_tested,wave_32,industrial_machine_vision_camera
+CMP-CAM-0158,Xenics,Bobcat 640,Bobcat 640 (orderable SKU not_verified),listed,not_verified,not_tested,wave_32,swir_camera
+CMP-CAM-0159,Cubert,ULTRIS X20,ULTRIS X20 (orderable SKU not_verified),listed,not_verified,not_tested,wave_32,snapshot_hyperspectral_camera
+CMP-CAM-0160,TAMRON,MP3010M-EV,MP3010M-EV (orderable SKU not_verified),listed,not_verified,not_tested,wave_32,zoom_camera_module
