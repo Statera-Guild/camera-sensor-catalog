@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0151,SICK,Visionary-T Mini,Visionary-T Mini (orderable SKU not_verified),listed,not_verified,not_tested,wave_31,industrial_3d_tof_camera
+CMP-CAM-0152,ifm electronic,O3R,O3R (orderable SKU not_verified),listed,not_verified,not_tested,wave_31,industrial_3d_camera
+CMP-CAM-0153,Mech-Mind Robotics,Mech-Eye PRO S,Mech-Eye PRO S (orderable SKU not_verified),listed,not_verified,not_tested,wave_31,industrial_structured_light_camera
+CMP-CAM-0154,Nerian Vision,Scarlet 3D,Scarlet 3D (orderable SKU not_verified),listed,not_verified,not_tested,wave_31,industrial_stereo_camera
+CMP-CAM-0155,Emergent Vision Technologies,Bolt HB-12000-SB,Bolt HB-12000-SB (orderable SKU not_verified),listed,not_verified,not_tested,wave_31,high_speed_machine_vision_camera

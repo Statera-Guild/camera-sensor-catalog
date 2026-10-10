@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 150 / 160 (93.750%) — Waves 1–30**
+**Registered: 155 / 160 (96.875%) — Waves 1–31**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -160,4 +160,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0148](component_cards/CMP-CAM-0148.md) | DJI | Zenmuse H30T | C11 | listed | not_verified | not_tested |
 | [CMP-CAM-0149](component_cards/CMP-CAM-0149.md) | Ricoh | THETA Z1 | C02 | listed | not_verified | not_tested |
 | [CMP-CAM-0150](component_cards/CMP-CAM-0150.md) | GoPro | HERO13 Black | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0151](component_cards/CMP-CAM-0151.md) | SICK | Visionary-T Mini | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0152](component_cards/CMP-CAM-0152.md) | ifm electronic | O3R | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0153](component_cards/CMP-CAM-0153.md) | Mech-Mind Robotics | Mech-Eye PRO S | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0154](component_cards/CMP-CAM-0154.md) | Nerian Vision | Scarlet 3D | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0155](component_cards/CMP-CAM-0155.md) | Emergent Vision Technologies | Bolt HB-12000-SB | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

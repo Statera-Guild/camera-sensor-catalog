@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0151,output_type,depth image and point cloud,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0151,shutter_type,not_verified,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0151,resolution,not_verified,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0151,fps,not_verified,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0151,interface,not_verified,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0151,image_sensor,not_verified,SRC-CAM-0151,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,output_type,depth image,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,shutter_type,not_verified,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,resolution,not_verified,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,fps,not_verified,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,interface,not_verified,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0152,image_sensor,not_verified,SRC-CAM-0152,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,output_type,3D point cloud,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,shutter_type,not_verified,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,resolution,not_verified,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,fps,not_verified,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,interface,not_verified,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0153,image_sensor,not_verified,SRC-CAM-0153,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,output_type,stereo depth,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,shutter_type,not_verified,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,resolution,not_verified,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,fps,not_verified,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,interface,not_verified,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0154,image_sensor,not_verified,SRC-CAM-0154,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,output_type,RGB image,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,shutter_type,not_verified,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,resolution,not_verified,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,fps,not_verified,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,interface,not_verified,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0155,image_sensor,not_verified,SRC-CAM-0155,editorial_candidate_not_manufacturer_verified,not_verified

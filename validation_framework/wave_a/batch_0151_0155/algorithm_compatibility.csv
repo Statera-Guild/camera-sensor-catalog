@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0151,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0151,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0151,robot navigation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0152,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0152,depth perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0152,robot safety perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0153,3D pose estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0153,robot picking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0153,point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0154,stereo depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0154,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0154,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0155,high-speed object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0155,industrial inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0155,motion tracking,candidate_input_only,not_tested,not_verified
