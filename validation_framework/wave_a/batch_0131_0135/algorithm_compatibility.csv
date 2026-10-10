@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0131,SWIR inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0131,spectral anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0131,industrial imaging,candidate_input_only,not_tested,not_verified
+CMP-CAM-0132,spectral classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0132,material identification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0132,anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0133,event-based tracking,candidate_input_only,not_tested,not_verified
+CMP-CAM-0133,event optical flow,candidate_input_only,not_tested,not_verified
+CMP-CAM-0133,high-speed perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0134,3D pose estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0134,robot guidance,candidate_input_only,not_tested,not_verified
+CMP-CAM-0134,point cloud registration,candidate_input_only,not_tested,not_verified
+CMP-CAM-0135,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0135,thermal inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0135,hotspot detection,candidate_input_only,not_tested,not_verified

@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 130 / 160 (81.250%) — Waves 1–26**
+**Registered: 135 / 160 (84.375%) — Waves 1–27**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -140,4 +140,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0128](component_cards/CMP-CAM-0128.md) | Daheng Imaging | MER2-503-36U3C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0129](component_cards/CMP-CAM-0129.md) | Baumer | VCXG-51C | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0130](component_cards/CMP-CAM-0130.md) | XIMEA | MQ013CG-E2 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0131](component_cards/CMP-CAM-0131.md) | Allied Vision | Goldeye G-032 | C13 | listed | not_verified | not_tested |
+| [CMP-CAM-0132](component_cards/CMP-CAM-0132.md) | Headwall Photonics | Nano-Hyperspec | C14 | listed | not_verified | not_tested |
+| [CMP-CAM-0133](component_cards/CMP-CAM-0133.md) | Prophesee | EVK4 | C15 | listed | not_verified | not_tested |
+| [CMP-CAM-0134](component_cards/CMP-CAM-0134.md) | Photoneo | MotionCam-3D Color S | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0135](component_cards/CMP-CAM-0135.md) | Workswell | WIRIS Pro | C12 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

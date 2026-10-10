@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0131,Allied Vision,Goldeye G-032,Goldeye G-032 (orderable SKU not_verified),listed,not_verified,not_tested,wave_27,swir_camera
+CMP-CAM-0132,Headwall Photonics,Nano-Hyperspec,Nano-Hyperspec (orderable SKU not_verified),listed,not_verified,not_tested,wave_27,hyperspectral_camera
+CMP-CAM-0133,Prophesee,EVK4,EVK4 (orderable SKU not_verified),listed,not_verified,not_tested,wave_27,event_camera
+CMP-CAM-0134,Photoneo,MotionCam-3D Color S,MotionCam-3D Color S (orderable SKU not_verified),listed,not_verified,not_tested,wave_27,industrial_3d_camera
+CMP-CAM-0135,Workswell,WIRIS Pro,WIRIS Pro (orderable SKU not_verified),listed,not_verified,not_tested,wave_27,thermal_camera
