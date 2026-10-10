@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0121,CMP-CAM-0121,manufacturer_homepage_reference,https://www.flir.com/,Teledyne FLIR,url_recorded_not_live_verified
+SRC-CAM-0122,CMP-CAM-0122,manufacturer_homepage_reference,https://www.orbbec.com/,Orbbec,url_recorded_not_live_verified
+SRC-CAM-0123,CMP-CAM-0123,manufacturer_homepage_reference,https://www.zivid.com/,Zivid,url_recorded_not_live_verified
+SRC-CAM-0124,CMP-CAM-0124,manufacturer_homepage_reference,https://micasense.com/,MicaSense,url_recorded_not_live_verified
+SRC-CAM-0125,CMP-CAM-0125,manufacturer_homepage_reference,https://luxonis.com/,Luxonis,url_recorded_not_live_verified
