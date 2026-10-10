@@ -1,8 +1,8 @@
-# CMP-CAM-0121 — Teledyne FLIR A70
+# CMP-CAM-0121 — Teledyne FLIR A310
 
 - Manufacturer: Teledyne FLIR
-- Model: A70
-- Orderable SKU: A70 (orderable SKU not_verified)
+- Model: A310
+- Orderable SKU: A310 (orderable SKU not_verified)
 - Primary category: C06 — Thermal Imaging
 - Product form factor: **thermal_camera**
 - Catalog status: **listed**
@@ -11,26 +11,14 @@
 
 ## Sensor / Interface Candidate
 
-- Output type: thermal imaging camera (editorial candidate; not manufacturer-verified)
-- Shutter type: not_verified
-- Resolution: not_verified
-- Frame rate: not_verified
-- Interface: not_verified
-- Image sensor: not_verified
+- Output: thermal imaging camera (editorial candidate; manufacturer specification not verified)
+- Shutter, resolution, frame rate, interface, image sensor: **not_verified**
+- Manufacturer homepage reference: https://www.flir.com/ (not a verified model datasheet)
 
-## PAI-SG Algorithm Candidates
+## Candidate Algorithms
 
-- thermal anomaly detection (not_tested)
-- condition monitoring (not_tested)
-- thermal inspection (not_tested)
+thermal anomaly detection; condition monitoring; thermal inspection. Compatibility has not been experimentally tested.
 
-## Evidence and Qualification
+## Evidence and Publication Controls
 
-- Manufacturer homepage reference: https://www.flir.com/
-- Evidence scope: manufacturer homepage only; exact model / orderable SKU documentation not verified.
-- Do not infer product availability or hardware capability from this card.
-- See `validation_framework/wave_a/batch_0121_0125/` for claim-level records.
-
-## Public / Private Boundary
-
-This public catalog candidate does not include private BOM pricing, proprietary reference-stack choices, supplier quotations, or internal architecture.
+This public card contains no internal BOM, supplier quotation, cost or private architecture. Exact orderable SKU, product existence, and technical specifications require manufacturer verification.

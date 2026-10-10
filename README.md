@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 120 / 160 (75.000%) — Waves 1–24**
+**Registered: 125 / 160 (78.125%) — Waves 1–25**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -130,4 +130,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0118](component_cards/CMP-CAM-0118.md) | Allied Vision | Alvium 1800 U-040c | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0119](component_cards/CMP-CAM-0119.md) | IDS Imaging | Ensenso N30 | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0120](component_cards/CMP-CAM-0120.md) | Luxonis | OAK-D W | C08 | listed | not_verified | not_tested |
+| [CMP-CAM-0121](component_cards/CMP-CAM-0121.md) | Teledyne FLIR | A310 | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0122](component_cards/CMP-CAM-0122.md) | e-con Systems | e-CAM80_CUNX | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0123](component_cards/CMP-CAM-0123.md) | Zivid | Zivid 2+ L110 | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0124](component_cards/CMP-CAM-0124.md) | MicaSense | RedEdge-MX | C07 | listed | not_verified | not_tested |
+| [CMP-CAM-0125](component_cards/CMP-CAM-0125.md) | Stereolabs | ZED X One | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

@@ -5,7 +5,7 @@ CMP-CAM-0121,resolution,not_verified,SRC-CAM-0121,editorial_candidate_not_manufa
 CMP-CAM-0121,fps,not_verified,SRC-CAM-0121,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0121,interface,not_verified,SRC-CAM-0121,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0121,image_sensor,not_verified,SRC-CAM-0121,editorial_candidate_not_manufacturer_verified,not_verified
-CMP-CAM-0122,output_type,3D ToF depth camera,SRC-CAM-0122,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0122,output_type,RGB image,SRC-CAM-0122,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0122,shutter_type,not_verified,SRC-CAM-0122,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0122,resolution,not_verified,SRC-CAM-0122,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0122,fps,not_verified,SRC-CAM-0122,editorial_candidate_not_manufacturer_verified,not_verified
@@ -23,7 +23,7 @@ CMP-CAM-0124,resolution,not_verified,SRC-CAM-0124,editorial_candidate_not_manufa
 CMP-CAM-0124,fps,not_verified,SRC-CAM-0124,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0124,interface,not_verified,SRC-CAM-0124,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0124,image_sensor,not_verified,SRC-CAM-0124,editorial_candidate_not_manufacturer_verified,not_verified
-CMP-CAM-0125,output_type,embedded AI camera platform,SRC-CAM-0125,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0125,output_type,RGB image,SRC-CAM-0125,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0125,shutter_type,not_verified,SRC-CAM-0125,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0125,resolution,not_verified,SRC-CAM-0125,editorial_candidate_not_manufacturer_verified,not_verified
 CMP-CAM-0125,fps,not_verified,SRC-CAM-0125,editorial_candidate_not_manufacturer_verified,not_verified

@@ -1,36 +1,24 @@
-# CMP-CAM-0122 — Orbbec Gemini 335
+# CMP-CAM-0122 — e-con Systems e-CAM80_CUNX
 
-- Manufacturer: Orbbec
-- Model: Gemini 335
-- Orderable SKU: Gemini 335 (orderable SKU not_verified)
-- Primary category: C03 — 3D Time-of-Flight
-- Product form factor: **tof_camera**
+- Manufacturer: e-con Systems
+- Model: e-CAM80_CUNX
+- Orderable SKU: e-CAM80_CUNX (orderable SKU not_verified)
+- Primary category: C01 — Industrial RGB Camera
+- Product form factor: **industrial_rgb_camera**
 - Catalog status: **listed**
 - Verification status: **not_verified**
 - Algorithm test status: **not_tested**
 
 ## Sensor / Interface Candidate
 
-- Output type: 3D ToF depth camera (editorial candidate; not manufacturer-verified)
-- Shutter type: not_verified
-- Resolution: not_verified
-- Frame rate: not_verified
-- Interface: not_verified
-- Image sensor: not_verified
+- Output: RGB image (editorial candidate; manufacturer specification not verified)
+- Shutter, resolution, frame rate, interface, image sensor: **not_verified**
+- Manufacturer homepage reference: https://www.e-consystems.com/ (not a verified model datasheet)
 
-## PAI-SG Algorithm Candidates
+## Candidate Algorithms
 
-- depth estimation (not_tested)
-- obstacle detection (not_tested)
-- 3D perception (not_tested)
+object detection; visual inspection; visual localization. Compatibility has not been experimentally tested.
 
-## Evidence and Qualification
+## Evidence and Publication Controls
 
-- Manufacturer homepage reference: https://www.orbbec.com/
-- Evidence scope: manufacturer homepage only; exact model / orderable SKU documentation not verified.
-- Do not infer product availability or hardware capability from this card.
-- See `validation_framework/wave_a/batch_0121_0125/` for claim-level records.
-
-## Public / Private Boundary
-
-This public catalog candidate does not include private BOM pricing, proprietary reference-stack choices, supplier quotations, or internal architecture.
+This public card contains no internal BOM, supplier quotation, cost or private architecture. Exact orderable SKU, product existence, and technical specifications require manufacturer verification.

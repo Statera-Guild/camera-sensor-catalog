@@ -7,12 +7,18 @@ def read(p):
 a=r/'validation_framework/integration/master_catalog_0001_0120.csv'
 b=r/'validation_framework/wave_a/batch_0121_0125/wave25_master_rows.csv'
 c=r/'validation_framework/integration/master_catalog_0001_0125.csv'
+def assert_unique(rows,key):
+ from collections import defaultdict
+ d=defaultdict(list)
+ for x in rows:d[(x['manufacturer'].strip().casefold(),x[key].strip().casefold())].append(x['component_id'])
+ duplicates={k:v for k,v in d.items() if len(v)>1}
+ if duplicates:raise ValueError(f'Duplicate {key}: {duplicates}')
 fields,old=read(a);newfields,new=read(b)
 assert fields==newfields
 assert [x['component_id'] for x in old]==[f'CMP-CAM-{i:04d}' for i in range(1,121)]
 assert [x['component_id'] for x in new]==[f'CMP-CAM-{i:04d}' for i in range(121,126)]
-assert len({(x['manufacturer'].casefold(),x['model'].casefold()) for x in old+new})==125
-assert len({(x['manufacturer'].casefold(),x['orderable_sku'].casefold()) for x in old+new})==125
+assert_unique(old+new,'model')
+assert_unique(old+new,'orderable_sku')
 for x in new:
  assert (r/'component_cards'/f"{x['component_id']}.md").exists()
  assert x['manufacturer_evidence_url'].startswith('https://')

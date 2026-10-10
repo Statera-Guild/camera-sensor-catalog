@@ -1,36 +1,24 @@
-# CMP-CAM-0125 — Luxonis OAK-D Lite
+# CMP-CAM-0125 — Stereolabs ZED X One
 
-- Manufacturer: Luxonis
-- Model: OAK-D Lite
-- Orderable SKU: OAK-D Lite (orderable SKU not_verified)
-- Primary category: C08 — Embedded AI Stereo
-- Product form factor: **embedded_ai_camera**
+- Manufacturer: Stereolabs
+- Model: ZED X One
+- Orderable SKU: ZED X One (orderable SKU not_verified)
+- Primary category: C01 — Industrial RGB Camera
+- Product form factor: **industrial_rgb_camera**
 - Catalog status: **listed**
 - Verification status: **not_verified**
 - Algorithm test status: **not_tested**
 
 ## Sensor / Interface Candidate
 
-- Output type: embedded AI camera platform (editorial candidate; not manufacturer-verified)
-- Shutter type: not_verified
-- Resolution: not_verified
-- Frame rate: not_verified
-- Interface: not_verified
-- Image sensor: not_verified
+- Output: RGB image (editorial candidate; manufacturer specification not verified)
+- Shutter, resolution, frame rate, interface, image sensor: **not_verified**
+- Manufacturer homepage reference: https://www.stereolabs.com/ (not a verified model datasheet)
 
-## PAI-SG Algorithm Candidates
+## Candidate Algorithms
 
-- object detection (not_tested)
-- multi-camera perception (not_tested)
-- multi-object tracking (not_tested)
+object detection; visual inspection; visual localization. Compatibility has not been experimentally tested.
 
-## Evidence and Qualification
+## Evidence and Publication Controls
 
-- Manufacturer homepage reference: https://luxonis.com/
-- Evidence scope: manufacturer homepage only; exact model / orderable SKU documentation not verified.
-- Do not infer product availability or hardware capability from this card.
-- See `validation_framework/wave_a/batch_0121_0125/` for claim-level records.
-
-## Public / Private Boundary
-
-This public catalog candidate does not include private BOM pricing, proprietary reference-stack choices, supplier quotations, or internal architecture.
+This public card contains no internal BOM, supplier quotation, cost or private architecture. Exact orderable SKU, product existence, and technical specifications require manufacturer verification.
