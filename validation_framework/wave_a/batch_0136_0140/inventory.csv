@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0136,Sony,ILX-LR1,ILX-LR1 (orderable SKU not_verified),listed,not_verified,not_tested,wave_28,industrial_rgb_camera
+CMP-CAM-0137,Raspberry Pi,Global Shutter Camera,Global Shutter Camera (orderable SKU not_verified),listed,not_verified,not_tested,wave_28,global_shutter_camera
+CMP-CAM-0138,Arducam,IMX477 HQ Camera,IMX477 HQ Camera (orderable SKU not_verified),listed,not_verified,not_tested,wave_28,embedded_camera
+CMP-CAM-0139,AXIS Communications,Q1972-E,Q1972-E (orderable SKU not_verified),listed,not_verified,not_tested,wave_28,thermal_network_camera
+CMP-CAM-0140,Insta360,X4,X4 (orderable SKU not_verified),listed,not_verified,not_tested,wave_28,panoramic_camera

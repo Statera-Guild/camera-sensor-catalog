@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0136,CMP-CAM-0136,manufacturer_homepage_reference,https://www.sony-semicon.com/,Sony,url_recorded_not_live_verified
+SRC-CAM-0137,CMP-CAM-0137,manufacturer_homepage_reference,https://www.raspberrypi.com/,Raspberry Pi,url_recorded_not_live_verified
+SRC-CAM-0138,CMP-CAM-0138,manufacturer_homepage_reference,https://www.arducam.com/,Arducam,url_recorded_not_live_verified
+SRC-CAM-0139,CMP-CAM-0139,manufacturer_homepage_reference,https://www.axis.com/,AXIS Communications,url_recorded_not_live_verified
+SRC-CAM-0140,CMP-CAM-0140,manufacturer_homepage_reference,https://www.insta360.com/,Insta360,url_recorded_not_live_verified

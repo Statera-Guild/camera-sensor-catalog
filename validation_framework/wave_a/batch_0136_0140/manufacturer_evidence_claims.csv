@@ -1,0 +1,31 @@
+component_id,source_id,claim_name,claim_value,evidence_scope,verification_status
+CMP-CAM-0136,SRC-CAM-0136,output_type,RGB image,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0136,SRC-CAM-0136,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0136,SRC-CAM-0136,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0136,SRC-CAM-0136,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0136,SRC-CAM-0136,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0136,SRC-CAM-0136,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,output_type,monochrome image,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0137,SRC-CAM-0137,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,output_type,RGB image,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0138,SRC-CAM-0138,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,output_type,thermal image,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0139,SRC-CAM-0139,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,output_type,360-degree video,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,shutter_type,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,resolution,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,fps,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,interface,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified
+CMP-CAM-0140,SRC-CAM-0140,image_sensor,not_verified,unverified candidate; requires exact SKU manufacturer documentation,not_verified

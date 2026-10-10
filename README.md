@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 135 / 160 (84.375%) — Waves 1–27**
+**Registered: 140 / 160 (87.500%) — Waves 1–28**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -145,4 +145,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0133](component_cards/CMP-CAM-0133.md) | Prophesee | EVK4 | C15 | listed | not_verified | not_tested |
 | [CMP-CAM-0134](component_cards/CMP-CAM-0134.md) | Photoneo | MotionCam-3D Color S | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0135](component_cards/CMP-CAM-0135.md) | Workswell | WIRIS Pro | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0136](component_cards/CMP-CAM-0136.md) | Sony | ILX-LR1 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0137](component_cards/CMP-CAM-0137.md) | Raspberry Pi | Global Shutter Camera | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0138](component_cards/CMP-CAM-0138.md) | Arducam | IMX477 HQ Camera | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0139](component_cards/CMP-CAM-0139.md) | AXIS Communications | Q1972-E | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0140](component_cards/CMP-CAM-0140.md) | Insta360 | X4 | C02 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
