@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 125 / 160 (78.125%) — Waves 1–25**
+**Registered: 130 / 160 (81.250%) — Waves 1–26**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -135,4 +135,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0123](component_cards/CMP-CAM-0123.md) | Zivid | Zivid 2+ L110 | C04 | listed | not_verified | not_tested |
 | [CMP-CAM-0124](component_cards/CMP-CAM-0124.md) | MicaSense | RedEdge-MX | C07 | listed | not_verified | not_tested |
 | [CMP-CAM-0125](component_cards/CMP-CAM-0125.md) | Stereolabs | ZED X One | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0126](component_cards/CMP-CAM-0126.md) | JAI | SW-4000T-10GE | C14 | listed | not_verified | not_tested |
+| [CMP-CAM-0127](component_cards/CMP-CAM-0127.md) | Hikrobot | MV-CA050-20GM | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0128](component_cards/CMP-CAM-0128.md) | Daheng Imaging | MER2-503-36U3C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0129](component_cards/CMP-CAM-0129.md) | Baumer | VCXG-51C | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0130](component_cards/CMP-CAM-0130.md) | XIMEA | MQ013CG-E2 | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

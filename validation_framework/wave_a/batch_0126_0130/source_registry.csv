@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0126,CMP-CAM-0126,manufacturer_homepage_reference,https://www.jai.com/,JAI,url_recorded_not_live_verified
+SRC-CAM-0127,CMP-CAM-0127,manufacturer_homepage_reference,https://www.hikrobotics.com/,Hikrobot,url_recorded_not_live_verified
+SRC-CAM-0128,CMP-CAM-0128,manufacturer_homepage_reference,https://www.get-cameras.com/,Daheng Imaging,url_recorded_not_live_verified
+SRC-CAM-0129,CMP-CAM-0129,manufacturer_homepage_reference,https://www.baumer.com/,Baumer,url_recorded_not_live_verified
+SRC-CAM-0130,CMP-CAM-0130,manufacturer_homepage_reference,https://www.ximea.com/,XIMEA,url_recorded_not_live_verified

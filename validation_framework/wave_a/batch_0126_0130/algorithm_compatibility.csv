@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0126,spectral inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0126,material classification,candidate_input_only,not_tested,not_verified
+CMP-CAM-0126,line-scan anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0127,machine vision inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0127,visual localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0127,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0128,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0128,surface defect detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0128,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0129,industrial inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0129,robot localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0129,segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0130,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0130,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0130,multi-camera calibration,candidate_input_only,not_tested,not_verified

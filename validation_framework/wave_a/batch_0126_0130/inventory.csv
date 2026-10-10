@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0126,JAI,SW-4000T-10GE,SW-4000T-10GE (orderable SKU not_verified),listed,not_verified,not_tested,wave_26,multispectral_linescan
+CMP-CAM-0127,Hikrobot,MV-CA050-20GM,MV-CA050-20GM (orderable SKU not_verified),listed,not_verified,not_tested,wave_26,industrial_mono
+CMP-CAM-0128,Daheng Imaging,MER2-503-36U3C,MER2-503-36U3C (orderable SKU not_verified),listed,not_verified,not_tested,wave_26,industrial_rgb
+CMP-CAM-0129,Baumer,VCXG-51C,VCXG-51C (orderable SKU not_verified),listed,not_verified,not_tested,wave_26,industrial_rgb
+CMP-CAM-0130,XIMEA,MQ013CG-E2,MQ013CG-E2 (orderable SKU not_verified),listed,not_verified,not_tested,wave_26,industrial_rgb

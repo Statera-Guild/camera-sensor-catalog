@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0126,output_type,multispectral line-scan camera,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0126,shutter_type,not_verified,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0126,resolution,not_verified,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0126,fps,not_verified,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0126,interface,not_verified,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0126,image_sensor,not_verified,SRC-CAM-0126,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,output_type,industrial monochrome area-scan camera,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,shutter_type,not_verified,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,resolution,not_verified,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,fps,not_verified,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,interface,not_verified,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0127,image_sensor,not_verified,SRC-CAM-0127,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,output_type,industrial color area-scan camera,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,shutter_type,not_verified,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,resolution,not_verified,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,fps,not_verified,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,interface,not_verified,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0128,image_sensor,not_verified,SRC-CAM-0128,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,output_type,industrial color GigE camera,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,shutter_type,not_verified,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,resolution,not_verified,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,fps,not_verified,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,interface,not_verified,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0129,image_sensor,not_verified,SRC-CAM-0129,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,output_type,industrial machine vision camera,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,shutter_type,not_verified,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,resolution,not_verified,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,fps,not_verified,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,interface,not_verified,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0130,image_sensor,not_verified,SRC-CAM-0130,editorial_candidate_not_manufacturer_verified,not_verified
