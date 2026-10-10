@@ -1,8 +1,8 @@
-# CMP-CAM-0122 — Orbbec Femto Mega
+# CMP-CAM-0122 — Orbbec Gemini 335
 
 - Manufacturer: Orbbec
-- Model: Femto Mega
-- Orderable SKU: Femto Mega (orderable SKU not_verified)
+- Model: Gemini 335
+- Orderable SKU: Gemini 335 (orderable SKU not_verified)
 - Primary category: C03 — 3D Time-of-Flight
 - Product form factor: **tof_camera**
 - Catalog status: **listed**

@@ -1,8 +1,8 @@
-# CMP-CAM-0125 — Luxonis OAK-FFC 4P
+# CMP-CAM-0125 — Luxonis OAK-D Lite
 
 - Manufacturer: Luxonis
-- Model: OAK-FFC 4P
-- Orderable SKU: OAK-FFC 4P (orderable SKU not_verified)
+- Model: OAK-D Lite
+- Orderable SKU: OAK-D Lite (orderable SKU not_verified)
 - Primary category: C08 — Embedded AI Stereo
 - Product form factor: **embedded_ai_camera**
 - Catalog status: **listed**

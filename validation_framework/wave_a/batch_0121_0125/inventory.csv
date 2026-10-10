@@ -1,6 +1,6 @@
 component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
-CMP-CAM-0121,Teledyne FLIR,A50,A50 (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,thermal_camera
-CMP-CAM-0122,Orbbec,Femto Mega,Femto Mega (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,tof_camera
+CMP-CAM-0121,Teledyne FLIR,A70,A70 (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,thermal_camera
+CMP-CAM-0122,Orbbec,Gemini 335,Gemini 335 (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,tof_camera
 CMP-CAM-0123,Zivid,Zivid 2+ L110,Zivid 2+ L110 (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,industrial_3d_camera
-CMP-CAM-0124,MicaSense,RedEdge-P,RedEdge-P (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,multispectral_camera
-CMP-CAM-0125,Luxonis,OAK-FFC 4P,OAK-FFC 4P (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,embedded_ai_camera
+CMP-CAM-0124,MicaSense,RedEdge-MX,RedEdge-MX (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,multispectral_camera
+CMP-CAM-0125,Luxonis,OAK-D Lite,OAK-D Lite (orderable SKU not_verified),listed,not_verified,not_tested,wave_25,embedded_ai_camera

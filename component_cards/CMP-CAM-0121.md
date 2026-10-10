@@ -1,8 +1,8 @@
-# CMP-CAM-0121 — Teledyne FLIR A50
+# CMP-CAM-0121 — Teledyne FLIR A70
 
 - Manufacturer: Teledyne FLIR
-- Model: A50
-- Orderable SKU: A50 (orderable SKU not_verified)
+- Model: A70
+- Orderable SKU: A70 (orderable SKU not_verified)
 - Primary category: C06 — Thermal Imaging
 - Product form factor: **thermal_camera**
 - Catalog status: **listed**

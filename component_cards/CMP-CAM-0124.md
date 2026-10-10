@@ -1,8 +1,8 @@
-# CMP-CAM-0124 — MicaSense RedEdge-P
+# CMP-CAM-0124 — MicaSense RedEdge-MX
 
 - Manufacturer: MicaSense
-- Model: RedEdge-P
-- Orderable SKU: RedEdge-P (orderable SKU not_verified)
+- Model: RedEdge-MX
+- Orderable SKU: RedEdge-MX (orderable SKU not_verified)
 - Primary category: C07 — Multispectral Imaging
 - Product form factor: **multispectral_camera**
 - Catalog status: **listed**
