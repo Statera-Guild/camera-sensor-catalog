@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0141,The Imaging Source,DFK 33UX264,DFK 33UX264 (orderable SKU not_verified),listed,not_verified,not_tested,wave_29,industrial_rgb_camera
+CMP-CAM-0142,Optris,PI 640i,PI 640i (orderable SKU not_verified),listed,not_verified,not_tested,wave_29,thermal_camera
+CMP-CAM-0143,FRAMOS,FSM-IMX678,FSM-IMX678 (orderable SKU not_verified),listed,not_verified,not_tested,wave_29,embedded_camera_module
+CMP-CAM-0144,Leopard Imaging,LI-IMX390-GMSL2,LI-IMX390-GMSL2 (orderable SKU not_verified),listed,not_verified,not_tested,wave_29,automotive_camera_module
+CMP-CAM-0145,HIKMICRO,M30,M30 (orderable SKU not_verified),listed,not_verified,not_tested,wave_29,thermal_inspection_camera

@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 140 / 160 (87.500%) — Waves 1–28**
+**Registered: 145 / 160 (90.625%) — Waves 1–29**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -150,4 +150,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0138](component_cards/CMP-CAM-0138.md) | Arducam | IMX477 HQ Camera | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0139](component_cards/CMP-CAM-0139.md) | AXIS Communications | Q1972-E | C12 | listed | not_verified | not_tested |
 | [CMP-CAM-0140](component_cards/CMP-CAM-0140.md) | Insta360 | X4 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0141](component_cards/CMP-CAM-0141.md) | The Imaging Source | DFK 33UX264 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0142](component_cards/CMP-CAM-0142.md) | Optris | PI 640i | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0143](component_cards/CMP-CAM-0143.md) | FRAMOS | FSM-IMX678 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0144](component_cards/CMP-CAM-0144.md) | Leopard Imaging | LI-IMX390-GMSL2 | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0145](component_cards/CMP-CAM-0145.md) | HIKMICRO | M30 | C12 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
