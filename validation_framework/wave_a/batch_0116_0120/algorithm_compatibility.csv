@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0116,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0116,condition monitoring,candidate_input_only,not_tested,not_verified
+CMP-CAM-0116,thermal inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0117,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0117,obstacle detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0117,3D perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0118,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0118,visual inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0118,semantic segmentation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0119,3D reconstruction,candidate_input_only,not_tested,not_verified
+CMP-CAM-0119,depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0119,robot guidance,candidate_input_only,not_tested,not_verified
+CMP-CAM-0120,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0120,stereo depth estimation,candidate_input_only,not_tested,not_verified
+CMP-CAM-0120,multi-object tracking,candidate_input_only,not_tested,not_verified

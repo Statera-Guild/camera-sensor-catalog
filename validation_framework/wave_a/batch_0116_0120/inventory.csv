@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0116,Teledyne FLIR,A700,A700 (orderable SKU not_verified),listed,not_verified,not_tested,wave_24,thermal_camera
+CMP-CAM-0117,Basler,blaze-102,blaze-102 (orderable SKU not_verified),listed,not_verified,not_tested,wave_24,tof_camera
+CMP-CAM-0118,Allied Vision,Alvium 1800 U-040c,Alvium 1800 U-040c (orderable SKU not_verified),listed,not_verified,not_tested,wave_24,industrial_rgb_camera
+CMP-CAM-0119,IDS Imaging,Ensenso N30,Ensenso N30 (orderable SKU not_verified),listed,not_verified,not_tested,wave_24,stereo_3d_camera
+CMP-CAM-0120,Luxonis,OAK-D W,OAK-D W (orderable SKU not_verified),listed,not_verified,not_tested,wave_24,embedded_ai_camera

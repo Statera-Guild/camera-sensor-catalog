@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 115 / 160 (71.875%) — Waves 1–23**
+**Registered: 120 / 160 (75.000%) — Waves 1–24**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -125,4 +125,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0113](component_cards/CMP-CAM-0113.md) | Specim | FX50 | C09 | listed | not_verified | not_tested |
 | [CMP-CAM-0114](component_cards/CMP-CAM-0114.md) | Photoneo | MotionCam-3D Color | C05 | listed | not_verified | not_tested |
 | [CMP-CAM-0115](component_cards/CMP-CAM-0115.md) | Allied Vision | Goldeye G-130 | C07 | listed | not_verified | not_tested |
+| [CMP-CAM-0116](component_cards/CMP-CAM-0116.md) | Teledyne FLIR | A700 | C06 | listed | not_verified | not_tested |
+| [CMP-CAM-0117](component_cards/CMP-CAM-0117.md) | Basler | blaze-102 | C03 | listed | not_verified | not_tested |
+| [CMP-CAM-0118](component_cards/CMP-CAM-0118.md) | Allied Vision | Alvium 1800 U-040c | C01 | listed | not_verified | not_tested |
+| [CMP-CAM-0119](component_cards/CMP-CAM-0119.md) | IDS Imaging | Ensenso N30 | C04 | listed | not_verified | not_tested |
+| [CMP-CAM-0120](component_cards/CMP-CAM-0120.md) | Luxonis | OAK-D W | C08 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->
