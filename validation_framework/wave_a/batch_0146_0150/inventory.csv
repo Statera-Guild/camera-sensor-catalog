@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave,product_form_factor
+CMP-CAM-0146,Fluke,TiS75+,TiS75+ (orderable SKU not_verified),listed,not_verified,not_tested,wave_30,handheld_thermal_camera
+CMP-CAM-0147,Seek Thermal,CompactPRO,CompactPRO (orderable SKU not_verified),listed,not_verified,not_tested,wave_30,compact_thermal_camera
+CMP-CAM-0148,DJI,Zenmuse H30T,Zenmuse H30T (orderable SKU not_verified),listed,not_verified,not_tested,wave_30,aerial_multisensor_payload
+CMP-CAM-0149,Ricoh,THETA Z1,THETA Z1 (orderable SKU not_verified),listed,not_verified,not_tested,wave_30,panoramic_camera
+CMP-CAM-0150,GoPro,HERO13 Black,HERO13 Black (orderable SKU not_verified),listed,not_verified,not_tested,wave_30,action_camera

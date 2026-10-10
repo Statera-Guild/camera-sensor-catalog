@@ -1,0 +1,6 @@
+source_id,component_id,source_type,url,publisher,access_status
+SRC-CAM-0146,CMP-CAM-0146,manufacturer_homepage_reference,https://www.fluke.com/,Fluke,url_recorded_not_live_verified
+SRC-CAM-0147,CMP-CAM-0147,manufacturer_homepage_reference,https://www.thermal.com/,Seek Thermal,url_recorded_not_live_verified
+SRC-CAM-0148,CMP-CAM-0148,manufacturer_homepage_reference,https://www.dji.com/,DJI,url_recorded_not_live_verified
+SRC-CAM-0149,CMP-CAM-0149,manufacturer_homepage_reference,https://theta360.com/,Ricoh,url_recorded_not_live_verified
+SRC-CAM-0150,CMP-CAM-0150,manufacturer_homepage_reference,https://gopro.com/,GoPro,url_recorded_not_live_verified

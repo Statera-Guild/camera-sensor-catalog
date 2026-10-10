@@ -6,7 +6,7 @@ Public manufacturer-evidence component registry derived from a separate private/
 
 <!-- CAMERA_CATALOG_START -->
 ## Component Index
-**Registered: 145 / 160 (90.625%) — Waves 1–29**
+**Registered: 150 / 160 (93.750%) — Waves 1–30**
 
 | Component ID | Manufacturer | Model | Category | Status | Verification | Algorithm Test |
 |---|---|---|---|---|---|---|
@@ -155,4 +155,9 @@ Public manufacturer-evidence component registry derived from a separate private/
 | [CMP-CAM-0143](component_cards/CMP-CAM-0143.md) | FRAMOS | FSM-IMX678 | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0144](component_cards/CMP-CAM-0144.md) | Leopard Imaging | LI-IMX390-GMSL2 | C01 | listed | not_verified | not_tested |
 | [CMP-CAM-0145](component_cards/CMP-CAM-0145.md) | HIKMICRO | M30 | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0146](component_cards/CMP-CAM-0146.md) | Fluke | TiS75+ | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0147](component_cards/CMP-CAM-0147.md) | Seek Thermal | CompactPRO | C12 | listed | not_verified | not_tested |
+| [CMP-CAM-0148](component_cards/CMP-CAM-0148.md) | DJI | Zenmuse H30T | C11 | listed | not_verified | not_tested |
+| [CMP-CAM-0149](component_cards/CMP-CAM-0149.md) | Ricoh | THETA Z1 | C02 | listed | not_verified | not_tested |
+| [CMP-CAM-0150](component_cards/CMP-CAM-0150.md) | GoPro | HERO13 Black | C01 | listed | not_verified | not_tested |
 <!-- CAMERA_CATALOG_END -->

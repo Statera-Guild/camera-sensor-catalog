@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_scope,algorithm_test_status,verification_status
+CMP-CAM-0146,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0146,hotspot detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0146,industrial inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0147,thermal anomaly detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0147,temperature monitoring,candidate_input_only,not_tested,not_verified
+CMP-CAM-0147,inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0148,multisensor perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0148,object detection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0148,thermal inspection,candidate_input_only,not_tested,not_verified
+CMP-CAM-0149,panoramic mapping,candidate_input_only,not_tested,not_verified
+CMP-CAM-0149,scene understanding,candidate_input_only,not_tested,not_verified
+CMP-CAM-0149,visual localization,candidate_input_only,not_tested,not_verified
+CMP-CAM-0150,video perception,candidate_input_only,not_tested,not_verified
+CMP-CAM-0150,visual odometry,candidate_input_only,not_tested,not_verified
+CMP-CAM-0150,object tracking,candidate_input_only,not_tested,not_verified

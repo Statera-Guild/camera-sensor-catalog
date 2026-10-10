@@ -1,0 +1,31 @@
+component_id,claim_name,claim_value,source_id,claim_origin,verification_status
+CMP-CAM-0146,output_type,thermal image,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0146,shutter_type,not_verified,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0146,resolution,not_verified,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0146,fps,not_verified,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0146,interface,not_verified,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0146,image_sensor,not_verified,SRC-CAM-0146,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,output_type,thermal image,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,shutter_type,not_verified,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,resolution,not_verified,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,fps,not_verified,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,interface,not_verified,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0147,image_sensor,not_verified,SRC-CAM-0147,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,output_type,RGB and thermal imagery,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,shutter_type,not_verified,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,resolution,not_verified,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,fps,not_verified,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,interface,not_verified,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0148,image_sensor,not_verified,SRC-CAM-0148,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,output_type,360-degree image,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,shutter_type,not_verified,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,resolution,not_verified,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,fps,not_verified,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,interface,not_verified,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0149,image_sensor,not_verified,SRC-CAM-0149,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,output_type,RGB video,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,shutter_type,not_verified,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,resolution,not_verified,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,fps,not_verified,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,interface,not_verified,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
+CMP-CAM-0150,image_sensor,not_verified,SRC-CAM-0150,editorial_candidate_not_manufacturer_verified,not_verified
